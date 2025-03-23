@@ -1,0 +1,1405 @@
+event_name,genre,location,review,category,sentiment,year
+Coldplay Concert Mumbai,Comedy,Ahmedabad,"Great value for money, would attend again!",Content Quality,Positive,2022
+Coldplay Concert Mumbai,Music,Pune,"Decent experience, but not worth the hype.",Content Quality,Neutral,2023
+Coldplay Concert Mumbai,Comedy,Kolkata,The staff was rude and unhelpful.,Content Quality,Negative,2022
+Coldplay Concert Mumbai,Theatre,Ahmedabad,"Great value for money, would attend again!",Venue & Facilities,Positive,2021
+Coldplay Concert Mumbai,Sports,Bangalore,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2021
+Coldplay Concert Mumbai,Comedy,Mumbai,The performances were underwhelming.,Venue & Facilities,Negative,2021
+Coldplay Concert Mumbai,Sports,Delhi,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Coldplay Concert Mumbai,Music,Bangalore,"Mixed feelings, some good moments.",Staff & Service,Neutral,2023
+Coldplay Concert Mumbai,Comedy,Kolkata,Poor sound quality and bad management.,Staff & Service,Negative,2019
+Coldplay Concert Mumbai,Sports,Goa,Amazing performance and great energy!,Value for Money,Positive,2021
+Coldplay Concert Mumbai,Theatre,Goa,Had fun but a few things could be improved.,Value for Money,Neutral,2021
+Coldplay Concert Mumbai,Theatre,Kolkata,The event was a complete letdown.,Value for Money,Negative,2020
+Coldplay Concert Delhi,Music,Goa,"Loved the experience, highly recommended!",Content Quality,Positive,2020
+Coldplay Concert Delhi,Comedy,Jaipur,Had fun but a few things could be improved.,Content Quality,Neutral,2022
+Coldplay Concert Delhi,Music,Kolkata,Poor sound quality and bad management.,Content Quality,Negative,2022
+Coldplay Concert Delhi,Comedy,Bangalore,The artists were phenomenal!,Venue & Facilities,Positive,2022
+Coldplay Concert Delhi,Fashion,Chennai,"It was okay, but I expected more.",Venue & Facilities,Neutral,2023
+Coldplay Concert Delhi,Sports,Pune,The performances were underwhelming.,Venue & Facilities,Negative,2022
+Coldplay Concert Delhi,Fashion,Goa,"Great value for money, would attend again!",Staff & Service,Positive,2022
+Coldplay Concert Delhi,Music,Ahmedabad,"It was okay, but I expected more.",Staff & Service,Neutral,2023
+Coldplay Concert Delhi,Fashion,Pune,Expected better performances.,Staff & Service,Negative,2023
+Coldplay Concert Delhi,Fashion,Hyderabad,The artists were phenomenal!,Value for Money,Positive,2023
+Coldplay Concert Delhi,Music,Bangalore,Had fun but a few things could be improved.,Value for Money,Neutral,2023
+Coldplay Concert Delhi,Comedy,Chennai,The performances were underwhelming.,Value for Money,Negative,2023
+Coldplay Concert Bangalore,Music,Kolkata,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2019
+Coldplay Concert Bangalore,Sports,Chennai,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2022
+Coldplay Concert Bangalore,Theatre,Hyderabad,The staff was rude and unhelpful.,Content Quality,Negative,2023
+Coldplay Concert Bangalore,Theatre,Chennai,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2021
+Coldplay Concert Bangalore,Sports,Delhi,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2023
+Coldplay Concert Bangalore,Theatre,Pune,The event was a complete letdown.,Venue & Facilities,Negative,2021
+Coldplay Concert Bangalore,Music,Kolkata,The artists were phenomenal!,Staff & Service,Positive,2022
+Coldplay Concert Bangalore,Comedy,Chennai,"Average event, could be better.",Staff & Service,Neutral,2023
+Coldplay Concert Bangalore,Fashion,Ahmedabad,I would not recommend this event to anyone.,Staff & Service,Negative,2020
+Coldplay Concert Bangalore,Fashion,Kolkata,Absolutely magical experience!,Value for Money,Positive,2019
+Coldplay Concert Bangalore,Comedy,Goa,Okayish experience overall.,Value for Money,Neutral,2020
+Coldplay Concert Bangalore,Music,Chennai,The performances were underwhelming.,Value for Money,Negative,2022
+Arijit Singh Live Mumbai,Theatre,Jaipur,"Great value for money, would attend again!",Content Quality,Positive,2023
+Arijit Singh Live Mumbai,Sports,Pune,Had fun but a few things could be improved.,Content Quality,Neutral,2023
+Arijit Singh Live Mumbai,Sports,Pune,Expected better performances.,Content Quality,Negative,2022
+Arijit Singh Live Mumbai,Theatre,Bangalore,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2022
+Arijit Singh Live Mumbai,Music,Kolkata,"Average event, could be better.",Venue & Facilities,Neutral,2022
+Arijit Singh Live Mumbai,Music,Jaipur,Crowd management was terrible.,Venue & Facilities,Negative,2023
+Arijit Singh Live Mumbai,Fashion,Hyderabad,A night to remember!,Staff & Service,Positive,2019
+Arijit Singh Live Mumbai,Fashion,Ahmedabad,It was decent but nothing extraordinary.,Staff & Service,Neutral,2020
+Arijit Singh Live Mumbai,Comedy,Pune,The staff was rude and unhelpful.,Staff & Service,Negative,2022
+Arijit Singh Live Mumbai,Sports,Chennai,The artists were phenomenal!,Value for Money,Positive,2021
+Arijit Singh Live Mumbai,Music,Jaipur,Okayish experience overall.,Value for Money,Neutral,2020
+Arijit Singh Live Mumbai,Music,Jaipur,Crowd management was terrible.,Value for Money,Negative,2023
+Arijit Singh Live Delhi,Comedy,Delhi,"Stellar show, exceeded expectations!",Content Quality,Positive,2019
+Arijit Singh Live Delhi,Music,Kolkata,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2019
+Arijit Singh Live Delhi,Theatre,Ahmedabad,Poor sound quality and bad management.,Content Quality,Negative,2022
+Arijit Singh Live Delhi,Theatre,Mumbai,A night to remember!,Venue & Facilities,Positive,2022
+Arijit Singh Live Delhi,Fashion,Goa,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2022
+Arijit Singh Live Delhi,Comedy,Kolkata,The staff was rude and unhelpful.,Venue & Facilities,Negative,2022
+Arijit Singh Live Delhi,Comedy,Chennai,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2023
+Arijit Singh Live Delhi,Music,Ahmedabad,"The event was alright, but not exceptional.",Staff & Service,Neutral,2023
+Arijit Singh Live Delhi,Theatre,Hyderabad,Not worth the money spent.,Staff & Service,Negative,2021
+Arijit Singh Live Delhi,Comedy,Delhi,The event was well-organized and enjoyable.,Value for Money,Positive,2022
+Arijit Singh Live Delhi,Sports,Kolkata,"Mixed feelings, some good moments.",Value for Money,Neutral,2019
+Arijit Singh Live Delhi,Fashion,Mumbai,Expected better performances.,Value for Money,Negative,2020
+Arijit Singh Live Kolkata,Theatre,Goa,Amazing performance and great energy!,Content Quality,Positive,2022
+Arijit Singh Live Kolkata,Comedy,Kolkata,"Decent experience, but not worth the hype.",Content Quality,Neutral,2021
+Arijit Singh Live Kolkata,Comedy,Chennai,I would not recommend this event to anyone.,Content Quality,Negative,2019
+Arijit Singh Live Kolkata,Sports,Ahmedabad,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2023
+Arijit Singh Live Kolkata,Comedy,Jaipur,"It was okay, but I expected more.",Venue & Facilities,Neutral,2021
+Arijit Singh Live Kolkata,Sports,Bangalore,I would not recommend this event to anyone.,Venue & Facilities,Negative,2020
+Arijit Singh Live Kolkata,Theatre,Hyderabad,"Stellar show, exceeded expectations!",Staff & Service,Positive,2021
+Arijit Singh Live Kolkata,Theatre,Pune,It was decent but nothing extraordinary.,Staff & Service,Neutral,2020
+Arijit Singh Live Kolkata,Music,Kolkata,Expected better performances.,Staff & Service,Negative,2019
+Arijit Singh Live Kolkata,Sports,Ahmedabad,"Stellar show, exceeded expectations!",Value for Money,Positive,2022
+Arijit Singh Live Kolkata,Fashion,Chennai,Had fun but a few things could be improved.,Value for Money,Neutral,2023
+Arijit Singh Live Kolkata,Comedy,Mumbai,Not worth the money spent.,Value for Money,Negative,2022
+Sunburn Goa,Sports,Goa,The artists were phenomenal!,Content Quality,Positive,2021
+Sunburn Goa,Fashion,Delhi,"It was okay, but I expected more.",Content Quality,Neutral,2019
+Sunburn Goa,Comedy,Kolkata,Poor sound quality and bad management.,Content Quality,Negative,2021
+Sunburn Goa,Fashion,Ahmedabad,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2019
+Sunburn Goa,Sports,Bangalore,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2023
+Sunburn Goa,Theatre,Delhi,Poor sound quality and bad management.,Venue & Facilities,Negative,2021
+Sunburn Goa,Sports,Mumbai,Absolutely magical experience!,Staff & Service,Positive,2019
+Sunburn Goa,Fashion,Bangalore,It was decent but nothing extraordinary.,Staff & Service,Neutral,2019
+Sunburn Goa,Sports,Jaipur,The staff was rude and unhelpful.,Staff & Service,Negative,2020
+Sunburn Goa,Music,Chennai,"Great value for money, would attend again!",Value for Money,Positive,2021
+Sunburn Goa,Music,Kolkata,Could have been better organized.,Value for Money,Neutral,2020
+Sunburn Goa,Fashion,Delhi,Disappointed with the organization.,Value for Money,Negative,2022
+Sunburn Mumbai,Sports,Kolkata,Amazing performance and great energy!,Content Quality,Positive,2019
+Sunburn Mumbai,Music,Hyderabad,"Average event, could be better.",Content Quality,Neutral,2019
+Sunburn Mumbai,Sports,Jaipur,The event was a complete letdown.,Content Quality,Negative,2023
+Sunburn Mumbai,Theatre,Jaipur,A night to remember!,Venue & Facilities,Positive,2023
+Sunburn Mumbai,Music,Bangalore,"It was okay, but I expected more.",Venue & Facilities,Neutral,2022
+Sunburn Mumbai,Sports,Ahmedabad,The event was a complete letdown.,Venue & Facilities,Negative,2019
+Sunburn Mumbai,Fashion,Ahmedabad,The artists were phenomenal!,Staff & Service,Positive,2023
+Sunburn Mumbai,Theatre,Jaipur,Okayish experience overall.,Staff & Service,Neutral,2023
+Sunburn Mumbai,Theatre,Jaipur,Expected better performances.,Staff & Service,Negative,2022
+Sunburn Mumbai,Theatre,Jaipur,"Great value for money, would attend again!",Value for Money,Positive,2023
+Sunburn Mumbai,Comedy,Bangalore,"Average event, could be better.",Value for Money,Neutral,2023
+Sunburn Mumbai,Sports,Jaipur,Crowd management was terrible.,Value for Money,Negative,2019
+Sunburn Bangalore,Sports,Chennai,The event was well-organized and enjoyable.,Content Quality,Positive,2019
+Sunburn Bangalore,Music,Mumbai,It was decent but nothing extraordinary.,Content Quality,Neutral,2022
+Sunburn Bangalore,Sports,Chennai,Not worth the money spent.,Content Quality,Negative,2023
+Sunburn Bangalore,Sports,Bangalore,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2021
+Sunburn Bangalore,Music,Bangalore,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2021
+Sunburn Bangalore,Music,Kolkata,The staff was rude and unhelpful.,Venue & Facilities,Negative,2019
+Sunburn Bangalore,Theatre,Hyderabad,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2019
+Sunburn Bangalore,Music,Delhi,"Average event, could be better.",Staff & Service,Neutral,2019
+Sunburn Bangalore,Theatre,Jaipur,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2019
+Sunburn Bangalore,Music,Chennai,Amazing performance and great energy!,Value for Money,Positive,2020
+Sunburn Bangalore,Comedy,Ahmedabad,"Average event, could be better.",Value for Money,Neutral,2023
+Sunburn Bangalore,Sports,Pune,Poor sound quality and bad management.,Value for Money,Negative,2020
+IPL Final Mumbai,Theatre,Ahmedabad,Amazing performance and great energy!,Content Quality,Positive,2020
+IPL Final Mumbai,Theatre,Goa,Okayish experience overall.,Content Quality,Neutral,2019
+IPL Final Mumbai,Music,Goa,The event was a complete letdown.,Content Quality,Negative,2022
+IPL Final Mumbai,Sports,Jaipur,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2021
+IPL Final Mumbai,Sports,Goa,"Average event, could be better.",Venue & Facilities,Neutral,2019
+IPL Final Mumbai,Theatre,Hyderabad,Crowd management was terrible.,Venue & Facilities,Negative,2020
+IPL Final Mumbai,Fashion,Jaipur,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2020
+IPL Final Mumbai,Comedy,Delhi,Could have been better organized.,Staff & Service,Neutral,2023
+IPL Final Mumbai,Comedy,Chennai,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2020
+IPL Final Mumbai,Comedy,Pune,"Loved the experience, highly recommended!",Value for Money,Positive,2021
+IPL Final Mumbai,Sports,Pune,"Decent experience, but not worth the hype.",Value for Money,Neutral,2022
+IPL Final Mumbai,Theatre,Hyderabad,Not worth the money spent.,Value for Money,Negative,2020
+IPL Final Delhi,Music,Delhi,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2022
+IPL Final Delhi,Comedy,Bangalore,Could have been better organized.,Content Quality,Neutral,2022
+IPL Final Delhi,Fashion,Bangalore,The staff was rude and unhelpful.,Content Quality,Negative,2019
+IPL Final Delhi,Theatre,Jaipur,A night to remember!,Venue & Facilities,Positive,2023
+IPL Final Delhi,Fashion,Chennai,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2020
+IPL Final Delhi,Sports,Mumbai,Poor sound quality and bad management.,Venue & Facilities,Negative,2020
+IPL Final Delhi,Comedy,Pune,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2020
+IPL Final Delhi,Sports,Jaipur,"It was okay, but I expected more.",Staff & Service,Neutral,2023
+IPL Final Delhi,Comedy,Bangalore,Not worth the money spent.,Staff & Service,Negative,2019
+IPL Final Delhi,Comedy,Chennai,"Loved the experience, highly recommended!",Value for Money,Positive,2020
+IPL Final Delhi,Theatre,Ahmedabad,"The event was alright, but not exceptional.",Value for Money,Neutral,2020
+IPL Final Delhi,Sports,Pune,The staff was rude and unhelpful.,Value for Money,Negative,2021
+IPL Final Bangalore,Music,Mumbai,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2021
+IPL Final Bangalore,Fashion,Pune,"Decent experience, but not worth the hype.",Content Quality,Neutral,2021
+IPL Final Bangalore,Sports,Kolkata,The venue was too crowded and uncomfortable.,Content Quality,Negative,2023
+IPL Final Bangalore,Fashion,Jaipur,Fantastic vibe and great organization!,Venue & Facilities,Positive,2021
+IPL Final Bangalore,Comedy,Bangalore,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2023
+IPL Final Bangalore,Theatre,Goa,The staff was rude and unhelpful.,Venue & Facilities,Negative,2020
+IPL Final Bangalore,Sports,Goa,Fantastic vibe and great organization!,Staff & Service,Positive,2023
+IPL Final Bangalore,Music,Jaipur,Could have been better organized.,Staff & Service,Neutral,2021
+IPL Final Bangalore,Theatre,Hyderabad,Poor sound quality and bad management.,Staff & Service,Negative,2019
+IPL Final Bangalore,Music,Chennai,A night to remember!,Value for Money,Positive,2019
+IPL Final Bangalore,Comedy,Delhi,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2022
+IPL Final Bangalore,Theatre,Delhi,The performances were underwhelming.,Value for Money,Negative,2019
+Zakir Khan Standup Mumbai,Sports,Bangalore,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2022
+Zakir Khan Standup Mumbai,Comedy,Delhi,Had fun but a few things could be improved.,Content Quality,Neutral,2020
+Zakir Khan Standup Mumbai,Fashion,Kolkata,Expected better performances.,Content Quality,Negative,2020
+Zakir Khan Standup Mumbai,Music,Goa,Fantastic vibe and great organization!,Venue & Facilities,Positive,2019
+Zakir Khan Standup Mumbai,Music,Bangalore,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2020
+Zakir Khan Standup Mumbai,Sports,Ahmedabad,I would not recommend this event to anyone.,Venue & Facilities,Negative,2023
+Zakir Khan Standup Mumbai,Theatre,Bangalore,"Loved the experience, highly recommended!",Staff & Service,Positive,2023
+Zakir Khan Standup Mumbai,Music,Chennai,"It was okay, but I expected more.",Staff & Service,Neutral,2022
+Zakir Khan Standup Mumbai,Comedy,Pune,The staff was rude and unhelpful.,Staff & Service,Negative,2019
+Zakir Khan Standup Mumbai,Music,Ahmedabad,"Loved the experience, highly recommended!",Value for Money,Positive,2019
+Zakir Khan Standup Mumbai,Theatre,Bangalore,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2022
+Zakir Khan Standup Mumbai,Music,Chennai,Not worth the money spent.,Value for Money,Negative,2022
+Zakir Khan Standup Delhi,Fashion,Ahmedabad,Absolutely magical experience!,Content Quality,Positive,2021
+Zakir Khan Standup Delhi,Theatre,Ahmedabad,"Average event, could be better.",Content Quality,Neutral,2020
+Zakir Khan Standup Delhi,Comedy,Mumbai,I would not recommend this event to anyone.,Content Quality,Negative,2020
+Zakir Khan Standup Delhi,Sports,Chennai,Amazing performance and great energy!,Venue & Facilities,Positive,2022
+Zakir Khan Standup Delhi,Theatre,Jaipur,Okayish experience overall.,Venue & Facilities,Neutral,2019
+Zakir Khan Standup Delhi,Fashion,Pune,Poor sound quality and bad management.,Venue & Facilities,Negative,2021
+Zakir Khan Standup Delhi,Theatre,Delhi,A night to remember!,Staff & Service,Positive,2021
+Zakir Khan Standup Delhi,Sports,Bangalore,"It was okay, but I expected more.",Staff & Service,Neutral,2021
+Zakir Khan Standup Delhi,Comedy,Delhi,Crowd management was terrible.,Staff & Service,Negative,2020
+Zakir Khan Standup Delhi,Music,Mumbai,The artists were phenomenal!,Value for Money,Positive,2021
+Zakir Khan Standup Delhi,Theatre,Chennai,"Average event, could be better.",Value for Money,Neutral,2023
+Zakir Khan Standup Delhi,Fashion,Bangalore,Not worth the money spent.,Value for Money,Negative,2019
+Zakir Khan Standup Pune,Comedy,Hyderabad,Fantastic vibe and great organization!,Content Quality,Positive,2022
+Zakir Khan Standup Pune,Sports,Mumbai,"The event was alright, but not exceptional.",Content Quality,Neutral,2019
+Zakir Khan Standup Pune,Theatre,Bangalore,Disappointed with the organization.,Content Quality,Negative,2022
+Zakir Khan Standup Pune,Comedy,Bangalore,"Great value for money, would attend again!",Venue & Facilities,Positive,2022
+Zakir Khan Standup Pune,Theatre,Goa,"Average event, could be better.",Venue & Facilities,Neutral,2023
+Zakir Khan Standup Pune,Comedy,Bangalore,Crowd management was terrible.,Venue & Facilities,Negative,2022
+Zakir Khan Standup Pune,Fashion,Ahmedabad,"Stellar show, exceeded expectations!",Staff & Service,Positive,2023
+Zakir Khan Standup Pune,Sports,Hyderabad,Had fun but a few things could be improved.,Staff & Service,Neutral,2020
+Zakir Khan Standup Pune,Comedy,Kolkata,The performances were underwhelming.,Staff & Service,Negative,2021
+Zakir Khan Standup Pune,Theatre,Kolkata,Amazing performance and great energy!,Value for Money,Positive,2020
+Zakir Khan Standup Pune,Sports,Ahmedabad,"Average event, could be better.",Value for Money,Neutral,2023
+Zakir Khan Standup Pune,Music,Mumbai,The staff was rude and unhelpful.,Value for Money,Negative,2023
+Vir Das Comedy Show Mumbai,Music,Mumbai,"Great value for money, would attend again!",Content Quality,Positive,2023
+Vir Das Comedy Show Mumbai,Fashion,Kolkata,"The event was alright, but not exceptional.",Content Quality,Neutral,2022
+Vir Das Comedy Show Mumbai,Fashion,Delhi,I would not recommend this event to anyone.,Content Quality,Negative,2023
+Vir Das Comedy Show Mumbai,Sports,Delhi,Absolutely magical experience!,Venue & Facilities,Positive,2023
+Vir Das Comedy Show Mumbai,Sports,Mumbai,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2020
+Vir Das Comedy Show Mumbai,Music,Ahmedabad,I would not recommend this event to anyone.,Venue & Facilities,Negative,2019
+Vir Das Comedy Show Mumbai,Fashion,Delhi,Absolutely magical experience!,Staff & Service,Positive,2020
+Vir Das Comedy Show Mumbai,Theatre,Bangalore,Could have been better organized.,Staff & Service,Neutral,2020
+Vir Das Comedy Show Mumbai,Sports,Delhi,I would not recommend this event to anyone.,Staff & Service,Negative,2020
+Vir Das Comedy Show Mumbai,Fashion,Delhi,The event was well-organized and enjoyable.,Value for Money,Positive,2021
+Vir Das Comedy Show Mumbai,Music,Delhi,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2020
+Vir Das Comedy Show Mumbai,Fashion,Goa,I would not recommend this event to anyone.,Value for Money,Negative,2021
+Vir Das Comedy Show Delhi,Sports,Bangalore,Fantastic vibe and great organization!,Content Quality,Positive,2019
+Vir Das Comedy Show Delhi,Theatre,Delhi,"It was okay, but I expected more.",Content Quality,Neutral,2021
+Vir Das Comedy Show Delhi,Fashion,Chennai,Crowd management was terrible.,Content Quality,Negative,2023
+Vir Das Comedy Show Delhi,Sports,Mumbai,The artists were phenomenal!,Venue & Facilities,Positive,2021
+Vir Das Comedy Show Delhi,Fashion,Delhi,Could have been better organized.,Venue & Facilities,Neutral,2020
+Vir Das Comedy Show Delhi,Comedy,Kolkata,Crowd management was terrible.,Venue & Facilities,Negative,2022
+Vir Das Comedy Show Delhi,Theatre,Bangalore,"Loved the experience, highly recommended!",Staff & Service,Positive,2023
+Vir Das Comedy Show Delhi,Sports,Hyderabad,"Mixed feelings, some good moments.",Staff & Service,Neutral,2020
+Vir Das Comedy Show Delhi,Music,Pune,Expected better performances.,Staff & Service,Negative,2021
+Vir Das Comedy Show Delhi,Comedy,Kolkata,The artists were phenomenal!,Value for Money,Positive,2020
+Vir Das Comedy Show Delhi,Sports,Pune,Could have been better organized.,Value for Money,Neutral,2019
+Vir Das Comedy Show Delhi,Comedy,Kolkata,Disappointed with the organization.,Value for Money,Negative,2022
+Vir Das Comedy Show Hyderabad,Theatre,Hyderabad,"Stellar show, exceeded expectations!",Content Quality,Positive,2019
+Vir Das Comedy Show Hyderabad,Music,Bangalore,Okayish experience overall.,Content Quality,Neutral,2019
+Vir Das Comedy Show Hyderabad,Comedy,Pune,Not worth the money spent.,Content Quality,Negative,2023
+Vir Das Comedy Show Hyderabad,Comedy,Pune,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2023
+Vir Das Comedy Show Hyderabad,Comedy,Hyderabad,"It was okay, but I expected more.",Venue & Facilities,Neutral,2021
+Vir Das Comedy Show Hyderabad,Fashion,Pune,The performances were underwhelming.,Venue & Facilities,Negative,2022
+Vir Das Comedy Show Hyderabad,Comedy,Jaipur,Amazing performance and great energy!,Staff & Service,Positive,2021
+Vir Das Comedy Show Hyderabad,Sports,Ahmedabad,"Mixed feelings, some good moments.",Staff & Service,Neutral,2022
+Vir Das Comedy Show Hyderabad,Music,Hyderabad,I would not recommend this event to anyone.,Staff & Service,Negative,2020
+Vir Das Comedy Show Hyderabad,Comedy,Delhi,The event was well-organized and enjoyable.,Value for Money,Positive,2020
+Vir Das Comedy Show Hyderabad,Comedy,Chennai,Could have been better organized.,Value for Money,Neutral,2020
+Vir Das Comedy Show Hyderabad,Theatre,Pune,The venue was too crowded and uncomfortable.,Value for Money,Negative,2022
+NH7 Weekender Pune,Comedy,Kolkata,The artists were phenomenal!,Content Quality,Positive,2021
+NH7 Weekender Pune,Theatre,Kolkata,"The event was alright, but not exceptional.",Content Quality,Neutral,2019
+NH7 Weekender Pune,Sports,Bangalore,The performances were underwhelming.,Content Quality,Negative,2020
+NH7 Weekender Pune,Fashion,Mumbai,Absolutely magical experience!,Venue & Facilities,Positive,2023
+NH7 Weekender Pune,Comedy,Ahmedabad,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2020
+NH7 Weekender Pune,Theatre,Ahmedabad,Poor sound quality and bad management.,Venue & Facilities,Negative,2019
+NH7 Weekender Pune,Sports,Goa,"Stellar show, exceeded expectations!",Staff & Service,Positive,2022
+NH7 Weekender Pune,Sports,Delhi,"The event was alright, but not exceptional.",Staff & Service,Neutral,2022
+NH7 Weekender Pune,Comedy,Bangalore,Crowd management was terrible.,Staff & Service,Negative,2020
+NH7 Weekender Pune,Fashion,Ahmedabad,Amazing performance and great energy!,Value for Money,Positive,2023
+NH7 Weekender Pune,Music,Ahmedabad,"Mixed feelings, some good moments.",Value for Money,Neutral,2021
+NH7 Weekender Pune,Music,Delhi,Poor sound quality and bad management.,Value for Money,Negative,2021
+NH7 Weekender Bangalore,Theatre,Jaipur,Amazing performance and great energy!,Content Quality,Positive,2021
+NH7 Weekender Bangalore,Sports,Chennai,"The event was alright, but not exceptional.",Content Quality,Neutral,2021
+NH7 Weekender Bangalore,Comedy,Kolkata,The staff was rude and unhelpful.,Content Quality,Negative,2022
+NH7 Weekender Bangalore,Music,Mumbai,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2023
+NH7 Weekender Bangalore,Fashion,Ahmedabad,"It was okay, but I expected more.",Venue & Facilities,Neutral,2019
+NH7 Weekender Bangalore,Fashion,Pune,The staff was rude and unhelpful.,Venue & Facilities,Negative,2019
+NH7 Weekender Bangalore,Fashion,Goa,A night to remember!,Staff & Service,Positive,2023
+NH7 Weekender Bangalore,Comedy,Chennai,"Mixed feelings, some good moments.",Staff & Service,Neutral,2023
+NH7 Weekender Bangalore,Theatre,Kolkata,The event was a complete letdown.,Staff & Service,Negative,2022
+NH7 Weekender Bangalore,Music,Pune,Absolutely magical experience!,Value for Money,Positive,2020
+NH7 Weekender Bangalore,Theatre,Jaipur,"Decent experience, but not worth the hype.",Value for Money,Neutral,2019
+NH7 Weekender Bangalore,Music,Jaipur,The event was a complete letdown.,Value for Money,Negative,2020
+NH7 Weekender Kolkata,Sports,Hyderabad,The artists were phenomenal!,Content Quality,Positive,2021
+NH7 Weekender Kolkata,Sports,Pune,"Average event, could be better.",Content Quality,Neutral,2021
+NH7 Weekender Kolkata,Theatre,Pune,The performances were underwhelming.,Content Quality,Negative,2023
+NH7 Weekender Kolkata,Music,Bangalore,A night to remember!,Venue & Facilities,Positive,2022
+NH7 Weekender Kolkata,Comedy,Chennai,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2021
+NH7 Weekender Kolkata,Theatre,Jaipur,Crowd management was terrible.,Venue & Facilities,Negative,2022
+NH7 Weekender Kolkata,Theatre,Jaipur,Absolutely magical experience!,Staff & Service,Positive,2020
+NH7 Weekender Kolkata,Comedy,Mumbai,"Mixed feelings, some good moments.",Staff & Service,Neutral,2019
+NH7 Weekender Kolkata,Sports,Chennai,The performances were underwhelming.,Staff & Service,Negative,2023
+NH7 Weekender Kolkata,Comedy,Mumbai,"Loved the experience, highly recommended!",Value for Money,Positive,2021
+NH7 Weekender Kolkata,Sports,Chennai,"It was okay, but I expected more.",Value for Money,Neutral,2021
+NH7 Weekender Kolkata,Sports,Goa,Crowd management was terrible.,Value for Money,Negative,2021
+Lollapalooza Mumbai,Comedy,Ahmedabad,Absolutely magical experience!,Content Quality,Positive,2019
+Lollapalooza Mumbai,Comedy,Bangalore,"The event was alright, but not exceptional.",Content Quality,Neutral,2019
+Lollapalooza Mumbai,Theatre,Chennai,Not worth the money spent.,Content Quality,Negative,2021
+Lollapalooza Mumbai,Music,Hyderabad,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2023
+Lollapalooza Mumbai,Comedy,Delhi,"Average event, could be better.",Venue & Facilities,Neutral,2022
+Lollapalooza Mumbai,Music,Goa,The staff was rude and unhelpful.,Venue & Facilities,Negative,2022
+Lollapalooza Mumbai,Fashion,Bangalore,Absolutely magical experience!,Staff & Service,Positive,2020
+Lollapalooza Mumbai,Theatre,Hyderabad,"Average event, could be better.",Staff & Service,Neutral,2022
+Lollapalooza Mumbai,Comedy,Bangalore,The staff was rude and unhelpful.,Staff & Service,Negative,2020
+Lollapalooza Mumbai,Sports,Goa,Fantastic vibe and great organization!,Value for Money,Positive,2020
+Lollapalooza Mumbai,Comedy,Pune,"It was okay, but I expected more.",Value for Money,Neutral,2022
+Lollapalooza Mumbai,Comedy,Ahmedabad,Crowd management was terrible.,Value for Money,Negative,2019
+Lollapalooza Delhi,Sports,Jaipur,"Stellar show, exceeded expectations!",Content Quality,Positive,2021
+Lollapalooza Delhi,Comedy,Goa,Had fun but a few things could be improved.,Content Quality,Neutral,2020
+Lollapalooza Delhi,Sports,Bangalore,Disappointed with the organization.,Content Quality,Negative,2020
+Lollapalooza Delhi,Comedy,Chennai,Fantastic vibe and great organization!,Venue & Facilities,Positive,2022
+Lollapalooza Delhi,Comedy,Goa,Could have been better organized.,Venue & Facilities,Neutral,2020
+Lollapalooza Delhi,Music,Jaipur,Disappointed with the organization.,Venue & Facilities,Negative,2021
+Lollapalooza Delhi,Sports,Ahmedabad,The event was well-organized and enjoyable.,Staff & Service,Positive,2019
+Lollapalooza Delhi,Music,Goa,"It was okay, but I expected more.",Staff & Service,Neutral,2022
+Lollapalooza Delhi,Comedy,Delhi,Not worth the money spent.,Staff & Service,Negative,2019
+Lollapalooza Delhi,Music,Delhi,Absolutely magical experience!,Value for Money,Positive,2020
+Lollapalooza Delhi,Fashion,Ahmedabad,"Decent experience, but not worth the hype.",Value for Money,Neutral,2023
+Lollapalooza Delhi,Sports,Goa,Expected better performances.,Value for Money,Negative,2020
+Lollapalooza Bangalore,Fashion,Jaipur,"Stellar show, exceeded expectations!",Content Quality,Positive,2020
+Lollapalooza Bangalore,Comedy,Mumbai,Had fun but a few things could be improved.,Content Quality,Neutral,2022
+Lollapalooza Bangalore,Sports,Chennai,I would not recommend this event to anyone.,Content Quality,Negative,2020
+Lollapalooza Bangalore,Theatre,Hyderabad,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2020
+Lollapalooza Bangalore,Music,Mumbai,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2020
+Lollapalooza Bangalore,Sports,Ahmedabad,The event was a complete letdown.,Venue & Facilities,Negative,2022
+Lollapalooza Bangalore,Music,Delhi,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Lollapalooza Bangalore,Sports,Bangalore,"Average event, could be better.",Staff & Service,Neutral,2023
+Lollapalooza Bangalore,Sports,Hyderabad,I would not recommend this event to anyone.,Staff & Service,Negative,2019
+Lollapalooza Bangalore,Theatre,Hyderabad,The event was well-organized and enjoyable.,Value for Money,Positive,2019
+Lollapalooza Bangalore,Sports,Ahmedabad,"The event was alright, but not exceptional.",Value for Money,Neutral,2021
+Lollapalooza Bangalore,Theatre,Mumbai,The event was a complete letdown.,Value for Money,Negative,2020
+Pro Kabaddi Final Mumbai,Fashion,Chennai,"Loved the experience, highly recommended!",Content Quality,Positive,2022
+Pro Kabaddi Final Mumbai,Theatre,Bangalore,"The event was alright, but not exceptional.",Content Quality,Neutral,2023
+Pro Kabaddi Final Mumbai,Comedy,Chennai,Expected better performances.,Content Quality,Negative,2023
+Pro Kabaddi Final Mumbai,Music,Chennai,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2019
+Pro Kabaddi Final Mumbai,Theatre,Mumbai,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2020
+Pro Kabaddi Final Mumbai,Fashion,Mumbai,The performances were underwhelming.,Venue & Facilities,Negative,2021
+Pro Kabaddi Final Mumbai,Music,Hyderabad,Absolutely magical experience!,Staff & Service,Positive,2021
+Pro Kabaddi Final Mumbai,Sports,Goa,It was decent but nothing extraordinary.,Staff & Service,Neutral,2023
+Pro Kabaddi Final Mumbai,Comedy,Ahmedabad,The performances were underwhelming.,Staff & Service,Negative,2022
+Pro Kabaddi Final Mumbai,Sports,Hyderabad,Amazing performance and great energy!,Value for Money,Positive,2021
+Pro Kabaddi Final Mumbai,Fashion,Goa,Could have been better organized.,Value for Money,Neutral,2021
+Pro Kabaddi Final Mumbai,Sports,Mumbai,I would not recommend this event to anyone.,Value for Money,Negative,2023
+Pro Kabaddi Final Delhi,Music,Jaipur,The artists were phenomenal!,Content Quality,Positive,2022
+Pro Kabaddi Final Delhi,Fashion,Goa,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2019
+Pro Kabaddi Final Delhi,Fashion,Ahmedabad,Not worth the money spent.,Content Quality,Negative,2020
+Pro Kabaddi Final Delhi,Theatre,Hyderabad,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2019
+Pro Kabaddi Final Delhi,Sports,Delhi,"Average event, could be better.",Venue & Facilities,Neutral,2022
+Pro Kabaddi Final Delhi,Theatre,Delhi,Not worth the money spent.,Venue & Facilities,Negative,2021
+Pro Kabaddi Final Delhi,Fashion,Pune,The event was well-organized and enjoyable.,Staff & Service,Positive,2022
+Pro Kabaddi Final Delhi,Fashion,Jaipur,"Average event, could be better.",Staff & Service,Neutral,2022
+Pro Kabaddi Final Delhi,Theatre,Kolkata,Not worth the money spent.,Staff & Service,Negative,2019
+Pro Kabaddi Final Delhi,Music,Ahmedabad,"Stellar show, exceeded expectations!",Value for Money,Positive,2021
+Pro Kabaddi Final Delhi,Comedy,Pune,"It was okay, but I expected more.",Value for Money,Neutral,2019
+Pro Kabaddi Final Delhi,Sports,Mumbai,I would not recommend this event to anyone.,Value for Money,Negative,2020
+Pro Kabaddi Final Hyderabad,Theatre,Jaipur,"Loved the experience, highly recommended!",Content Quality,Positive,2022
+Pro Kabaddi Final Hyderabad,Music,Jaipur,"The event was alright, but not exceptional.",Content Quality,Neutral,2023
+Pro Kabaddi Final Hyderabad,Sports,Pune,The performances were underwhelming.,Content Quality,Negative,2023
+Pro Kabaddi Final Hyderabad,Theatre,Bangalore,A night to remember!,Venue & Facilities,Positive,2023
+Pro Kabaddi Final Hyderabad,Music,Hyderabad,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2020
+Pro Kabaddi Final Hyderabad,Sports,Pune,Not worth the money spent.,Venue & Facilities,Negative,2019
+Pro Kabaddi Final Hyderabad,Fashion,Kolkata,Fantastic vibe and great organization!,Staff & Service,Positive,2021
+Pro Kabaddi Final Hyderabad,Fashion,Chennai,Okayish experience overall.,Staff & Service,Neutral,2020
+Pro Kabaddi Final Hyderabad,Music,Mumbai,I would not recommend this event to anyone.,Staff & Service,Negative,2022
+Pro Kabaddi Final Hyderabad,Comedy,Pune,Absolutely magical experience!,Value for Money,Positive,2019
+Pro Kabaddi Final Hyderabad,Music,Chennai,"Average event, could be better.",Value for Money,Neutral,2021
+Pro Kabaddi Final Hyderabad,Fashion,Goa,Disappointed with the organization.,Value for Money,Negative,2020
+Fashion Week Mumbai,Music,Bangalore,Absolutely magical experience!,Content Quality,Positive,2020
+Fashion Week Mumbai,Fashion,Pune,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2019
+Fashion Week Mumbai,Comedy,Bangalore,The venue was too crowded and uncomfortable.,Content Quality,Negative,2020
+Fashion Week Mumbai,Fashion,Bangalore,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2022
+Fashion Week Mumbai,Sports,Jaipur,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2021
+Fashion Week Mumbai,Music,Delhi,The staff was rude and unhelpful.,Venue & Facilities,Negative,2022
+Fashion Week Mumbai,Comedy,Mumbai,"Stellar show, exceeded expectations!",Staff & Service,Positive,2022
+Fashion Week Mumbai,Comedy,Bangalore,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2020
+Fashion Week Mumbai,Theatre,Chennai,The event was a complete letdown.,Staff & Service,Negative,2021
+Fashion Week Mumbai,Fashion,Goa,Amazing performance and great energy!,Value for Money,Positive,2019
+Fashion Week Mumbai,Sports,Jaipur,Could have been better organized.,Value for Money,Neutral,2019
+Fashion Week Mumbai,Sports,Hyderabad,The performances were underwhelming.,Value for Money,Negative,2020
+Fashion Week Delhi,Fashion,Chennai,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2021
+Fashion Week Delhi,Sports,Delhi,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2019
+Fashion Week Delhi,Fashion,Bangalore,Crowd management was terrible.,Content Quality,Negative,2021
+Fashion Week Delhi,Theatre,Goa,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2023
+Fashion Week Delhi,Sports,Ahmedabad,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2022
+Fashion Week Delhi,Theatre,Pune,I would not recommend this event to anyone.,Venue & Facilities,Negative,2021
+Fashion Week Delhi,Comedy,Hyderabad,The event was well-organized and enjoyable.,Staff & Service,Positive,2019
+Fashion Week Delhi,Music,Goa,Could have been better organized.,Staff & Service,Neutral,2020
+Fashion Week Delhi,Sports,Hyderabad,Poor sound quality and bad management.,Staff & Service,Negative,2021
+Fashion Week Delhi,Fashion,Delhi,The artists were phenomenal!,Value for Money,Positive,2023
+Fashion Week Delhi,Music,Jaipur,"Average event, could be better.",Value for Money,Neutral,2020
+Fashion Week Delhi,Sports,Jaipur,Disappointed with the organization.,Value for Money,Negative,2023
+Fashion Week Bangalore,Music,Delhi,A night to remember!,Content Quality,Positive,2022
+Fashion Week Bangalore,Sports,Hyderabad,"Average event, could be better.",Content Quality,Neutral,2021
+Fashion Week Bangalore,Comedy,Jaipur,Expected better performances.,Content Quality,Negative,2019
+Fashion Week Bangalore,Fashion,Mumbai,Fantastic vibe and great organization!,Venue & Facilities,Positive,2022
+Fashion Week Bangalore,Theatre,Kolkata,"Average event, could be better.",Venue & Facilities,Neutral,2023
+Fashion Week Bangalore,Sports,Mumbai,The performances were underwhelming.,Venue & Facilities,Negative,2020
+Fashion Week Bangalore,Fashion,Delhi,A night to remember!,Staff & Service,Positive,2021
+Fashion Week Bangalore,Comedy,Mumbai,"Average event, could be better.",Staff & Service,Neutral,2020
+Fashion Week Bangalore,Theatre,Pune,I would not recommend this event to anyone.,Staff & Service,Negative,2021
+Fashion Week Bangalore,Sports,Goa,Absolutely magical experience!,Value for Money,Positive,2019
+Fashion Week Bangalore,Theatre,Delhi,"It was okay, but I expected more.",Value for Money,Neutral,2020
+Fashion Week Bangalore,Music,Jaipur,The staff was rude and unhelpful.,Value for Money,Negative,2021
+Shreya Ghoshal Live Mumbai,Theatre,Bangalore,"Great value for money, would attend again!",Content Quality,Positive,2021
+Shreya Ghoshal Live Mumbai,Music,Goa,"Mixed feelings, some good moments.",Content Quality,Neutral,2021
+Shreya Ghoshal Live Mumbai,Music,Goa,Expected better performances.,Content Quality,Negative,2021
+Shreya Ghoshal Live Mumbai,Theatre,Kolkata,The artists were phenomenal!,Venue & Facilities,Positive,2020
+Shreya Ghoshal Live Mumbai,Fashion,Ahmedabad,Could have been better organized.,Venue & Facilities,Neutral,2023
+Shreya Ghoshal Live Mumbai,Comedy,Chennai,I would not recommend this event to anyone.,Venue & Facilities,Negative,2022
+Shreya Ghoshal Live Mumbai,Theatre,Bangalore,A night to remember!,Staff & Service,Positive,2021
+Shreya Ghoshal Live Mumbai,Comedy,Ahmedabad,"It was okay, but I expected more.",Staff & Service,Neutral,2021
+Shreya Ghoshal Live Mumbai,Theatre,Mumbai,Crowd management was terrible.,Staff & Service,Negative,2020
+Shreya Ghoshal Live Mumbai,Theatre,Bangalore,Absolutely magical experience!,Value for Money,Positive,2019
+Shreya Ghoshal Live Mumbai,Theatre,Jaipur,Could have been better organized.,Value for Money,Neutral,2020
+Shreya Ghoshal Live Mumbai,Theatre,Goa,Not worth the money spent.,Value for Money,Negative,2022
+Shreya Ghoshal Live Delhi,Comedy,Pune,Fantastic vibe and great organization!,Content Quality,Positive,2021
+Shreya Ghoshal Live Delhi,Music,Kolkata,"Decent experience, but not worth the hype.",Content Quality,Neutral,2022
+Shreya Ghoshal Live Delhi,Fashion,Hyderabad,Poor sound quality and bad management.,Content Quality,Negative,2019
+Shreya Ghoshal Live Delhi,Fashion,Delhi,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2023
+Shreya Ghoshal Live Delhi,Comedy,Jaipur,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2021
+Shreya Ghoshal Live Delhi,Fashion,Bangalore,The performances were underwhelming.,Venue & Facilities,Negative,2022
+Shreya Ghoshal Live Delhi,Music,Pune,"Stellar show, exceeded expectations!",Staff & Service,Positive,2020
+Shreya Ghoshal Live Delhi,Theatre,Ahmedabad,Could have been better organized.,Staff & Service,Neutral,2019
+Shreya Ghoshal Live Delhi,Music,Pune,Expected better performances.,Staff & Service,Negative,2021
+Shreya Ghoshal Live Delhi,Sports,Mumbai,Absolutely magical experience!,Value for Money,Positive,2020
+Shreya Ghoshal Live Delhi,Comedy,Goa,"It was okay, but I expected more.",Value for Money,Neutral,2019
+Shreya Ghoshal Live Delhi,Sports,Chennai,Crowd management was terrible.,Value for Money,Negative,2021
+Shreya Ghoshal Live Chennai,Music,Hyderabad,The artists were phenomenal!,Content Quality,Positive,2020
+Shreya Ghoshal Live Chennai,Comedy,Jaipur,Could have been better organized.,Content Quality,Neutral,2022
+Shreya Ghoshal Live Chennai,Comedy,Hyderabad,Poor sound quality and bad management.,Content Quality,Negative,2020
+Shreya Ghoshal Live Chennai,Theatre,Jaipur,Absolutely magical experience!,Venue & Facilities,Positive,2023
+Shreya Ghoshal Live Chennai,Theatre,Bangalore,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2019
+Shreya Ghoshal Live Chennai,Fashion,Chennai,I would not recommend this event to anyone.,Venue & Facilities,Negative,2023
+Shreya Ghoshal Live Chennai,Sports,Jaipur,Amazing performance and great energy!,Staff & Service,Positive,2020
+Shreya Ghoshal Live Chennai,Theatre,Goa,Had fun but a few things could be improved.,Staff & Service,Neutral,2020
+Shreya Ghoshal Live Chennai,Theatre,Goa,The event was a complete letdown.,Staff & Service,Negative,2023
+Shreya Ghoshal Live Chennai,Fashion,Mumbai,"Great value for money, would attend again!",Value for Money,Positive,2021
+Shreya Ghoshal Live Chennai,Fashion,Pune,Could have been better organized.,Value for Money,Neutral,2021
+Shreya Ghoshal Live Chennai,Theatre,Pune,The performances were underwhelming.,Value for Money,Negative,2020
+Ritviz x Nucleya Concert Mumbai,Comedy,Kolkata,"Great value for money, would attend again!",Content Quality,Positive,2020
+Ritviz x Nucleya Concert Mumbai,Theatre,Delhi,It was decent but nothing extraordinary.,Content Quality,Neutral,2019
+Ritviz x Nucleya Concert Mumbai,Music,Ahmedabad,Expected better performances.,Content Quality,Negative,2019
+Ritviz x Nucleya Concert Mumbai,Music,Mumbai,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2023
+Ritviz x Nucleya Concert Mumbai,Music,Mumbai,"The event was alright, but not exceptional.",Venue & Facilities,Neutral,2022
+Ritviz x Nucleya Concert Mumbai,Comedy,Kolkata,Poor sound quality and bad management.,Venue & Facilities,Negative,2023
+Ritviz x Nucleya Concert Mumbai,Music,Bangalore,"Loved the experience, highly recommended!",Staff & Service,Positive,2023
+Ritviz x Nucleya Concert Mumbai,Comedy,Delhi,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2021
+Ritviz x Nucleya Concert Mumbai,Music,Mumbai,Poor sound quality and bad management.,Staff & Service,Negative,2019
+Ritviz x Nucleya Concert Mumbai,Fashion,Bangalore,"Great value for money, would attend again!",Value for Money,Positive,2021
+Ritviz x Nucleya Concert Mumbai,Comedy,Hyderabad,"It was okay, but I expected more.",Value for Money,Neutral,2019
+Ritviz x Nucleya Concert Mumbai,Sports,Mumbai,Crowd management was terrible.,Value for Money,Negative,2022
+Ritviz x Nucleya Concert Delhi,Theatre,Hyderabad,"Stellar show, exceeded expectations!",Content Quality,Positive,2020
+Ritviz x Nucleya Concert Delhi,Theatre,Mumbai,"The event was alright, but not exceptional.",Content Quality,Neutral,2020
+Ritviz x Nucleya Concert Delhi,Sports,Jaipur,The staff was rude and unhelpful.,Content Quality,Negative,2021
+Ritviz x Nucleya Concert Delhi,Theatre,Pune,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2021
+Ritviz x Nucleya Concert Delhi,Music,Hyderabad,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2019
+Ritviz x Nucleya Concert Delhi,Comedy,Goa,Poor sound quality and bad management.,Venue & Facilities,Negative,2021
+Ritviz x Nucleya Concert Delhi,Theatre,Bangalore,A night to remember!,Staff & Service,Positive,2019
+Ritviz x Nucleya Concert Delhi,Theatre,Mumbai,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2022
+Ritviz x Nucleya Concert Delhi,Theatre,Ahmedabad,Crowd management was terrible.,Staff & Service,Negative,2021
+Ritviz x Nucleya Concert Delhi,Sports,Bangalore,The artists were phenomenal!,Value for Money,Positive,2021
+Ritviz x Nucleya Concert Delhi,Sports,Hyderabad,"The event was alright, but not exceptional.",Value for Money,Neutral,2019
+Ritviz x Nucleya Concert Delhi,Music,Ahmedabad,Crowd management was terrible.,Value for Money,Negative,2019
+Ritviz x Nucleya Concert Bangalore,Theatre,Hyderabad,The event was well-organized and enjoyable.,Content Quality,Positive,2022
+Ritviz x Nucleya Concert Bangalore,Comedy,Mumbai,"The event was alright, but not exceptional.",Content Quality,Neutral,2022
+Ritviz x Nucleya Concert Bangalore,Fashion,Bangalore,Expected better performances.,Content Quality,Negative,2022
+Ritviz x Nucleya Concert Bangalore,Fashion,Mumbai,Absolutely magical experience!,Venue & Facilities,Positive,2019
+Ritviz x Nucleya Concert Bangalore,Comedy,Delhi,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2022
+Ritviz x Nucleya Concert Bangalore,Music,Hyderabad,Poor sound quality and bad management.,Venue & Facilities,Negative,2022
+Ritviz x Nucleya Concert Bangalore,Theatre,Jaipur,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2022
+Ritviz x Nucleya Concert Bangalore,Comedy,Pune,Had fun but a few things could be improved.,Staff & Service,Neutral,2021
+Ritviz x Nucleya Concert Bangalore,Music,Chennai,Not worth the money spent.,Staff & Service,Negative,2023
+Ritviz x Nucleya Concert Bangalore,Fashion,Delhi,Absolutely magical experience!,Value for Money,Positive,2021
+Ritviz x Nucleya Concert Bangalore,Music,Ahmedabad,"Average event, could be better.",Value for Money,Neutral,2022
+Ritviz x Nucleya Concert Bangalore,Sports,Kolkata,The performances were underwhelming.,Value for Money,Negative,2020
+Trevor Noah India Tour Mumbai,Sports,Hyderabad,The event was well-organized and enjoyable.,Content Quality,Positive,2023
+Trevor Noah India Tour Mumbai,Fashion,Chennai,Had fun but a few things could be improved.,Content Quality,Neutral,2019
+Trevor Noah India Tour Mumbai,Theatre,Ahmedabad,Not worth the money spent.,Content Quality,Negative,2019
+Trevor Noah India Tour Mumbai,Music,Jaipur,Amazing performance and great energy!,Venue & Facilities,Positive,2023
+Trevor Noah India Tour Mumbai,Sports,Ahmedabad,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2023
+Trevor Noah India Tour Mumbai,Sports,Goa,The performances were underwhelming.,Venue & Facilities,Negative,2023
+Trevor Noah India Tour Mumbai,Sports,Kolkata,Fantastic vibe and great organization!,Staff & Service,Positive,2020
+Trevor Noah India Tour Mumbai,Fashion,Ahmedabad,Okayish experience overall.,Staff & Service,Neutral,2020
+Trevor Noah India Tour Mumbai,Sports,Jaipur,The staff was rude and unhelpful.,Staff & Service,Negative,2023
+Trevor Noah India Tour Mumbai,Fashion,Goa,Absolutely magical experience!,Value for Money,Positive,2023
+Trevor Noah India Tour Mumbai,Music,Chennai,Could have been better organized.,Value for Money,Neutral,2019
+Trevor Noah India Tour Mumbai,Fashion,Goa,I would not recommend this event to anyone.,Value for Money,Negative,2023
+Trevor Noah India Tour Delhi,Theatre,Hyderabad,Fantastic vibe and great organization!,Content Quality,Positive,2019
+Trevor Noah India Tour Delhi,Fashion,Delhi,Could have been better organized.,Content Quality,Neutral,2023
+Trevor Noah India Tour Delhi,Theatre,Chennai,I would not recommend this event to anyone.,Content Quality,Negative,2022
+Trevor Noah India Tour Delhi,Comedy,Hyderabad,Amazing performance and great energy!,Venue & Facilities,Positive,2019
+Trevor Noah India Tour Delhi,Music,Chennai,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2022
+Trevor Noah India Tour Delhi,Fashion,Pune,Poor sound quality and bad management.,Venue & Facilities,Negative,2020
+Trevor Noah India Tour Delhi,Fashion,Ahmedabad,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Trevor Noah India Tour Delhi,Fashion,Ahmedabad,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2019
+Trevor Noah India Tour Delhi,Comedy,Mumbai,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2023
+Trevor Noah India Tour Delhi,Comedy,Ahmedabad,"Stellar show, exceeded expectations!",Value for Money,Positive,2022
+Trevor Noah India Tour Delhi,Comedy,Kolkata,"Decent experience, but not worth the hype.",Value for Money,Neutral,2019
+Trevor Noah India Tour Delhi,Comedy,Chennai,Crowd management was terrible.,Value for Money,Negative,2020
+Trevor Noah India Tour Bangalore,Theatre,Goa,"Stellar show, exceeded expectations!",Content Quality,Positive,2020
+Trevor Noah India Tour Bangalore,Music,Goa,Could have been better organized.,Content Quality,Neutral,2023
+Trevor Noah India Tour Bangalore,Music,Ahmedabad,The staff was rude and unhelpful.,Content Quality,Negative,2019
+Trevor Noah India Tour Bangalore,Sports,Chennai,Absolutely magical experience!,Venue & Facilities,Positive,2019
+Trevor Noah India Tour Bangalore,Sports,Jaipur,Could have been better organized.,Venue & Facilities,Neutral,2022
+Trevor Noah India Tour Bangalore,Comedy,Mumbai,The event was a complete letdown.,Venue & Facilities,Negative,2022
+Trevor Noah India Tour Bangalore,Comedy,Chennai,Absolutely magical experience!,Staff & Service,Positive,2021
+Trevor Noah India Tour Bangalore,Music,Pune,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2021
+Trevor Noah India Tour Bangalore,Fashion,Delhi,I would not recommend this event to anyone.,Staff & Service,Negative,2022
+Trevor Noah India Tour Bangalore,Theatre,Pune,The artists were phenomenal!,Value for Money,Positive,2019
+Trevor Noah India Tour Bangalore,Sports,Delhi,"Decent experience, but not worth the hype.",Value for Money,Neutral,2022
+Trevor Noah India Tour Bangalore,Sports,Kolkata,I would not recommend this event to anyone.,Value for Money,Negative,2023
+Royal Enfield Rider Mania Goa,Music,Jaipur,Fantastic vibe and great organization!,Content Quality,Positive,2021
+Royal Enfield Rider Mania Goa,Comedy,Mumbai,Could have been better organized.,Content Quality,Neutral,2022
+Royal Enfield Rider Mania Goa,Theatre,Goa,Expected better performances.,Content Quality,Negative,2023
+Royal Enfield Rider Mania Goa,Theatre,Goa,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2021
+Royal Enfield Rider Mania Goa,Music,Kolkata,"It was okay, but I expected more.",Venue & Facilities,Neutral,2022
+Royal Enfield Rider Mania Goa,Sports,Kolkata,The staff was rude and unhelpful.,Venue & Facilities,Negative,2021
+Royal Enfield Rider Mania Goa,Music,Kolkata,"Stellar show, exceeded expectations!",Staff & Service,Positive,2020
+Royal Enfield Rider Mania Goa,Comedy,Pune,"Average event, could be better.",Staff & Service,Neutral,2020
+Royal Enfield Rider Mania Goa,Theatre,Goa,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2023
+Royal Enfield Rider Mania Goa,Comedy,Mumbai,Absolutely magical experience!,Value for Money,Positive,2023
+Royal Enfield Rider Mania Goa,Theatre,Mumbai,"Mixed feelings, some good moments.",Value for Money,Neutral,2023
+Royal Enfield Rider Mania Goa,Theatre,Chennai,The performances were underwhelming.,Value for Money,Negative,2022
+Royal Enfield Rider Mania Bangalore,Theatre,Jaipur,"Loved the experience, highly recommended!",Content Quality,Positive,2022
+Royal Enfield Rider Mania Bangalore,Theatre,Pune,Could have been better organized.,Content Quality,Neutral,2023
+Royal Enfield Rider Mania Bangalore,Theatre,Kolkata,Poor sound quality and bad management.,Content Quality,Negative,2020
+Royal Enfield Rider Mania Bangalore,Music,Ahmedabad,"Great value for money, would attend again!",Venue & Facilities,Positive,2023
+Royal Enfield Rider Mania Bangalore,Comedy,Hyderabad,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2019
+Royal Enfield Rider Mania Bangalore,Comedy,Kolkata,Not worth the money spent.,Venue & Facilities,Negative,2019
+Royal Enfield Rider Mania Bangalore,Comedy,Hyderabad,Amazing performance and great energy!,Staff & Service,Positive,2021
+Royal Enfield Rider Mania Bangalore,Comedy,Jaipur,Okayish experience overall.,Staff & Service,Neutral,2019
+Royal Enfield Rider Mania Bangalore,Sports,Goa,The event was a complete letdown.,Staff & Service,Negative,2023
+Royal Enfield Rider Mania Bangalore,Music,Goa,Amazing performance and great energy!,Value for Money,Positive,2021
+Royal Enfield Rider Mania Bangalore,Fashion,Goa,Okayish experience overall.,Value for Money,Neutral,2020
+Royal Enfield Rider Mania Bangalore,Theatre,Bangalore,Expected better performances.,Value for Money,Negative,2022
+Royal Enfield Rider Mania Chennai,Comedy,Kolkata,"Great value for money, would attend again!",Content Quality,Positive,2022
+Royal Enfield Rider Mania Chennai,Theatre,Bangalore,Okayish experience overall.,Content Quality,Neutral,2023
+Royal Enfield Rider Mania Chennai,Fashion,Hyderabad,Expected better performances.,Content Quality,Negative,2023
+Royal Enfield Rider Mania Chennai,Music,Pune,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2019
+Royal Enfield Rider Mania Chennai,Comedy,Chennai,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2022
+Royal Enfield Rider Mania Chennai,Comedy,Jaipur,Poor sound quality and bad management.,Venue & Facilities,Negative,2023
+Royal Enfield Rider Mania Chennai,Fashion,Hyderabad,Amazing performance and great energy!,Staff & Service,Positive,2023
+Royal Enfield Rider Mania Chennai,Sports,Delhi,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2021
+Royal Enfield Rider Mania Chennai,Theatre,Mumbai,Not worth the money spent.,Staff & Service,Negative,2022
+Royal Enfield Rider Mania Chennai,Fashion,Chennai,The artists were phenomenal!,Value for Money,Positive,2020
+Royal Enfield Rider Mania Chennai,Music,Hyderabad,Could have been better organized.,Value for Money,Neutral,2022
+Royal Enfield Rider Mania Chennai,Theatre,Delhi,The staff was rude and unhelpful.,Value for Money,Negative,2023
+Comic Con Mumbai,Fashion,Bangalore,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2023
+Comic Con Mumbai,Theatre,Goa,Had fun but a few things could be improved.,Content Quality,Neutral,2019
+Comic Con Mumbai,Music,Pune,The performances were underwhelming.,Content Quality,Negative,2019
+Comic Con Mumbai,Theatre,Pune,"Great value for money, would attend again!",Venue & Facilities,Positive,2023
+Comic Con Mumbai,Fashion,Goa,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2022
+Comic Con Mumbai,Fashion,Mumbai,Expected better performances.,Venue & Facilities,Negative,2019
+Comic Con Mumbai,Fashion,Bangalore,A night to remember!,Staff & Service,Positive,2023
+Comic Con Mumbai,Music,Goa,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2021
+Comic Con Mumbai,Music,Goa,Crowd management was terrible.,Staff & Service,Negative,2021
+Comic Con Mumbai,Comedy,Kolkata,Absolutely magical experience!,Value for Money,Positive,2021
+Comic Con Mumbai,Music,Pune,Okayish experience overall.,Value for Money,Neutral,2019
+Comic Con Mumbai,Comedy,Chennai,Crowd management was terrible.,Value for Money,Negative,2020
+Comic Con Delhi,Theatre,Hyderabad,A night to remember!,Content Quality,Positive,2022
+Comic Con Delhi,Comedy,Hyderabad,It was decent but nothing extraordinary.,Content Quality,Neutral,2023
+Comic Con Delhi,Music,Goa,Expected better performances.,Content Quality,Negative,2021
+Comic Con Delhi,Music,Bangalore,"Great value for money, would attend again!",Venue & Facilities,Positive,2020
+Comic Con Delhi,Music,Jaipur,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2022
+Comic Con Delhi,Music,Goa,The event was a complete letdown.,Venue & Facilities,Negative,2020
+Comic Con Delhi,Sports,Pune,The artists were phenomenal!,Staff & Service,Positive,2020
+Comic Con Delhi,Comedy,Goa,"Mixed feelings, some good moments.",Staff & Service,Neutral,2021
+Comic Con Delhi,Fashion,Chennai,Disappointed with the organization.,Staff & Service,Negative,2021
+Comic Con Delhi,Theatre,Pune,Fantastic vibe and great organization!,Value for Money,Positive,2020
+Comic Con Delhi,Fashion,Delhi,"The event was alright, but not exceptional.",Value for Money,Neutral,2019
+Comic Con Delhi,Comedy,Mumbai,I would not recommend this event to anyone.,Value for Money,Negative,2021
+Comic Con Bangalore,Fashion,Chennai,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2021
+Comic Con Bangalore,Sports,Bangalore,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2020
+Comic Con Bangalore,Music,Goa,Disappointed with the organization.,Content Quality,Negative,2022
+Comic Con Bangalore,Music,Jaipur,A night to remember!,Venue & Facilities,Positive,2022
+Comic Con Bangalore,Sports,Jaipur,Okayish experience overall.,Venue & Facilities,Neutral,2020
+Comic Con Bangalore,Theatre,Goa,The event was a complete letdown.,Venue & Facilities,Negative,2020
+Comic Con Bangalore,Theatre,Ahmedabad,The artists were phenomenal!,Staff & Service,Positive,2020
+Comic Con Bangalore,Comedy,Goa,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2022
+Comic Con Bangalore,Comedy,Jaipur,The performances were underwhelming.,Staff & Service,Negative,2023
+Comic Con Bangalore,Comedy,Jaipur,The artists were phenomenal!,Value for Money,Positive,2020
+Comic Con Bangalore,Fashion,Jaipur,Okayish experience overall.,Value for Money,Neutral,2021
+Comic Con Bangalore,Music,Ahmedabad,I would not recommend this event to anyone.,Value for Money,Negative,2021
+Indian Super League Final Mumbai,Fashion,Goa,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2019
+Indian Super League Final Mumbai,Comedy,Pune,"Decent experience, but not worth the hype.",Content Quality,Neutral,2022
+Indian Super League Final Mumbai,Theatre,Goa,Poor sound quality and bad management.,Content Quality,Negative,2021
+Indian Super League Final Mumbai,Comedy,Ahmedabad,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2019
+Indian Super League Final Mumbai,Music,Bangalore,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2019
+Indian Super League Final Mumbai,Comedy,Ahmedabad,The venue was too crowded and uncomfortable.,Venue & Facilities,Negative,2020
+Indian Super League Final Mumbai,Music,Goa,Amazing performance and great energy!,Staff & Service,Positive,2019
+Indian Super League Final Mumbai,Comedy,Kolkata,"Average event, could be better.",Staff & Service,Neutral,2022
+Indian Super League Final Mumbai,Fashion,Goa,The performances were underwhelming.,Staff & Service,Negative,2021
+Indian Super League Final Mumbai,Fashion,Bangalore,The venue was perfect and the staff was very helpful.,Value for Money,Positive,2020
+Indian Super League Final Mumbai,Comedy,Bangalore,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2020
+Indian Super League Final Mumbai,Music,Goa,The venue was too crowded and uncomfortable.,Value for Money,Negative,2020
+Indian Super League Final Delhi,Music,Jaipur,A night to remember!,Content Quality,Positive,2020
+Indian Super League Final Delhi,Theatre,Chennai,"Decent experience, but not worth the hype.",Content Quality,Neutral,2022
+Indian Super League Final Delhi,Fashion,Delhi,The venue was too crowded and uncomfortable.,Content Quality,Negative,2023
+Indian Super League Final Delhi,Fashion,Chennai,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2021
+Indian Super League Final Delhi,Comedy,Mumbai,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2020
+Indian Super League Final Delhi,Sports,Kolkata,The staff was rude and unhelpful.,Venue & Facilities,Negative,2019
+Indian Super League Final Delhi,Sports,Bangalore,"Stellar show, exceeded expectations!",Staff & Service,Positive,2023
+Indian Super League Final Delhi,Comedy,Mumbai,"Mixed feelings, some good moments.",Staff & Service,Neutral,2021
+Indian Super League Final Delhi,Sports,Delhi,Crowd management was terrible.,Staff & Service,Negative,2022
+Indian Super League Final Delhi,Sports,Bangalore,"Loved the experience, highly recommended!",Value for Money,Positive,2019
+Indian Super League Final Delhi,Comedy,Bangalore,Okayish experience overall.,Value for Money,Neutral,2019
+Indian Super League Final Delhi,Sports,Hyderabad,The event was a complete letdown.,Value for Money,Negative,2019
+Indian Super League Final Kolkata,Theatre,Hyderabad,The artists were phenomenal!,Content Quality,Positive,2020
+Indian Super League Final Kolkata,Sports,Pune,"The event was alright, but not exceptional.",Content Quality,Neutral,2023
+Indian Super League Final Kolkata,Comedy,Delhi,The staff was rude and unhelpful.,Content Quality,Negative,2023
+Indian Super League Final Kolkata,Theatre,Hyderabad,A night to remember!,Venue & Facilities,Positive,2021
+Indian Super League Final Kolkata,Music,Pune,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2023
+Indian Super League Final Kolkata,Music,Kolkata,The performances were underwhelming.,Venue & Facilities,Negative,2023
+Indian Super League Final Kolkata,Fashion,Mumbai,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2022
+Indian Super League Final Kolkata,Theatre,Pune,"Average event, could be better.",Staff & Service,Neutral,2023
+Indian Super League Final Kolkata,Music,Jaipur,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2023
+Indian Super League Final Kolkata,Comedy,Pune,"Stellar show, exceeded expectations!",Value for Money,Positive,2023
+Indian Super League Final Kolkata,Music,Ahmedabad,Had fun but a few things could be improved.,Value for Money,Neutral,2021
+Indian Super League Final Kolkata,Theatre,Chennai,The event was a complete letdown.,Value for Money,Negative,2023
+Prateek Kuhad Live Mumbai,Theatre,Goa,"Stellar show, exceeded expectations!",Content Quality,Positive,2022
+Prateek Kuhad Live Mumbai,Theatre,Delhi,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2019
+Prateek Kuhad Live Mumbai,Comedy,Kolkata,The staff was rude and unhelpful.,Content Quality,Negative,2023
+Prateek Kuhad Live Mumbai,Fashion,Goa,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2021
+Prateek Kuhad Live Mumbai,Fashion,Ahmedabad,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2020
+Prateek Kuhad Live Mumbai,Sports,Hyderabad,The performances were underwhelming.,Venue & Facilities,Negative,2021
+Prateek Kuhad Live Mumbai,Sports,Jaipur,The event was well-organized and enjoyable.,Staff & Service,Positive,2021
+Prateek Kuhad Live Mumbai,Fashion,Goa,Okayish experience overall.,Staff & Service,Neutral,2023
+Prateek Kuhad Live Mumbai,Comedy,Delhi,Expected better performances.,Staff & Service,Negative,2021
+Prateek Kuhad Live Mumbai,Fashion,Jaipur,Fantastic vibe and great organization!,Value for Money,Positive,2021
+Prateek Kuhad Live Mumbai,Music,Chennai,It was decent but nothing extraordinary.,Value for Money,Neutral,2022
+Prateek Kuhad Live Mumbai,Theatre,Goa,Poor sound quality and bad management.,Value for Money,Negative,2023
+Prateek Kuhad Live Delhi,Fashion,Jaipur,Absolutely magical experience!,Content Quality,Positive,2021
+Prateek Kuhad Live Delhi,Music,Jaipur,Could have been better organized.,Content Quality,Neutral,2020
+Prateek Kuhad Live Delhi,Theatre,Mumbai,Crowd management was terrible.,Content Quality,Negative,2023
+Prateek Kuhad Live Delhi,Sports,Jaipur,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2023
+Prateek Kuhad Live Delhi,Music,Mumbai,"Average event, could be better.",Venue & Facilities,Neutral,2021
+Prateek Kuhad Live Delhi,Theatre,Mumbai,I would not recommend this event to anyone.,Venue & Facilities,Negative,2022
+Prateek Kuhad Live Delhi,Fashion,Ahmedabad,Absolutely magical experience!,Staff & Service,Positive,2021
+Prateek Kuhad Live Delhi,Music,Pune,"It was okay, but I expected more.",Staff & Service,Neutral,2023
+Prateek Kuhad Live Delhi,Fashion,Chennai,The event was a complete letdown.,Staff & Service,Negative,2020
+Prateek Kuhad Live Delhi,Theatre,Kolkata,The artists were phenomenal!,Value for Money,Positive,2022
+Prateek Kuhad Live Delhi,Fashion,Kolkata,Could have been better organized.,Value for Money,Neutral,2020
+Prateek Kuhad Live Delhi,Fashion,Kolkata,Not worth the money spent.,Value for Money,Negative,2023
+Prateek Kuhad Live Pune,Fashion,Kolkata,"Loved the experience, highly recommended!",Content Quality,Positive,2020
+Prateek Kuhad Live Pune,Music,Goa,Had fun but a few things could be improved.,Content Quality,Neutral,2021
+Prateek Kuhad Live Pune,Fashion,Goa,The staff was rude and unhelpful.,Content Quality,Negative,2023
+Prateek Kuhad Live Pune,Fashion,Pune,Amazing performance and great energy!,Venue & Facilities,Positive,2019
+Prateek Kuhad Live Pune,Theatre,Bangalore,Okayish experience overall.,Venue & Facilities,Neutral,2020
+Prateek Kuhad Live Pune,Comedy,Goa,The venue was too crowded and uncomfortable.,Venue & Facilities,Negative,2022
+Prateek Kuhad Live Pune,Music,Mumbai,"Loved the experience, highly recommended!",Staff & Service,Positive,2020
+Prateek Kuhad Live Pune,Fashion,Goa,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2020
+Prateek Kuhad Live Pune,Fashion,Bangalore,Not worth the money spent.,Staff & Service,Negative,2022
+Prateek Kuhad Live Pune,Music,Bangalore,The event was well-organized and enjoyable.,Value for Money,Positive,2021
+Prateek Kuhad Live Pune,Theatre,Kolkata,It was decent but nothing extraordinary.,Value for Money,Neutral,2021
+Prateek Kuhad Live Pune,Theatre,Pune,Expected better performances.,Value for Money,Negative,2021
+Badshah Concert Mumbai,Theatre,Jaipur,"Stellar show, exceeded expectations!",Content Quality,Positive,2023
+Badshah Concert Mumbai,Music,Goa,Could have been better organized.,Content Quality,Neutral,2019
+Badshah Concert Mumbai,Sports,Kolkata,I would not recommend this event to anyone.,Content Quality,Negative,2021
+Badshah Concert Mumbai,Music,Jaipur,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2020
+Badshah Concert Mumbai,Theatre,Goa,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2023
+Badshah Concert Mumbai,Music,Hyderabad,Expected better performances.,Venue & Facilities,Negative,2019
+Badshah Concert Mumbai,Fashion,Chennai,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Badshah Concert Mumbai,Theatre,Mumbai,"Mixed feelings, some good moments.",Staff & Service,Neutral,2021
+Badshah Concert Mumbai,Comedy,Ahmedabad,Disappointed with the organization.,Staff & Service,Negative,2022
+Badshah Concert Mumbai,Music,Goa,"Great value for money, would attend again!",Value for Money,Positive,2023
+Badshah Concert Mumbai,Theatre,Mumbai,"Decent experience, but not worth the hype.",Value for Money,Neutral,2023
+Badshah Concert Mumbai,Comedy,Kolkata,The venue was too crowded and uncomfortable.,Value for Money,Negative,2022
+Badshah Concert Delhi,Music,Ahmedabad,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2023
+Badshah Concert Delhi,Music,Ahmedabad,"It was okay, but I expected more.",Content Quality,Neutral,2020
+Badshah Concert Delhi,Sports,Hyderabad,The staff was rude and unhelpful.,Content Quality,Negative,2020
+Badshah Concert Delhi,Sports,Goa,A night to remember!,Venue & Facilities,Positive,2019
+Badshah Concert Delhi,Theatre,Chennai,"It was okay, but I expected more.",Venue & Facilities,Neutral,2019
+Badshah Concert Delhi,Comedy,Pune,The staff was rude and unhelpful.,Venue & Facilities,Negative,2019
+Badshah Concert Delhi,Music,Bangalore,Fantastic vibe and great organization!,Staff & Service,Positive,2023
+Badshah Concert Delhi,Comedy,Delhi,It was decent but nothing extraordinary.,Staff & Service,Neutral,2022
+Badshah Concert Delhi,Comedy,Jaipur,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2020
+Badshah Concert Delhi,Music,Bangalore,A night to remember!,Value for Money,Positive,2023
+Badshah Concert Delhi,Music,Goa,"Average event, could be better.",Value for Money,Neutral,2023
+Badshah Concert Delhi,Theatre,Kolkata,The event was a complete letdown.,Value for Money,Negative,2023
+Badshah Concert Bangalore,Comedy,Delhi,A night to remember!,Content Quality,Positive,2022
+Badshah Concert Bangalore,Sports,Goa,It was decent but nothing extraordinary.,Content Quality,Neutral,2019
+Badshah Concert Bangalore,Theatre,Bangalore,I would not recommend this event to anyone.,Content Quality,Negative,2023
+Badshah Concert Bangalore,Sports,Kolkata,A night to remember!,Venue & Facilities,Positive,2022
+Badshah Concert Bangalore,Theatre,Hyderabad,It was decent but nothing extraordinary.,Venue & Facilities,Neutral,2020
+Badshah Concert Bangalore,Fashion,Hyderabad,The performances were underwhelming.,Venue & Facilities,Negative,2019
+Badshah Concert Bangalore,Fashion,Ahmedabad,"Loved the experience, highly recommended!",Staff & Service,Positive,2023
+Badshah Concert Bangalore,Music,Pune,"Average event, could be better.",Staff & Service,Neutral,2021
+Badshah Concert Bangalore,Comedy,Ahmedabad,Not worth the money spent.,Staff & Service,Negative,2022
+Badshah Concert Bangalore,Comedy,Kolkata,The event was well-organized and enjoyable.,Value for Money,Positive,2022
+Badshah Concert Bangalore,Music,Hyderabad,"It was okay, but I expected more.",Value for Money,Neutral,2022
+Badshah Concert Bangalore,Fashion,Chennai,The venue was too crowded and uncomfortable.,Value for Money,Negative,2023
+Neha Kakkar Live Mumbai,Sports,Ahmedabad,"Loved the experience, highly recommended!",Content Quality,Positive,2019
+Neha Kakkar Live Mumbai,Sports,Goa,"The event was alright, but not exceptional.",Content Quality,Neutral,2023
+Neha Kakkar Live Mumbai,Theatre,Delhi,The event was a complete letdown.,Content Quality,Negative,2020
+Neha Kakkar Live Mumbai,Music,Delhi,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2022
+Neha Kakkar Live Mumbai,Sports,Kolkata,Could have been better organized.,Venue & Facilities,Neutral,2023
+Neha Kakkar Live Mumbai,Theatre,Chennai,I would not recommend this event to anyone.,Venue & Facilities,Negative,2021
+Neha Kakkar Live Mumbai,Fashion,Jaipur,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2022
+Neha Kakkar Live Mumbai,Sports,Bangalore,It was decent but nothing extraordinary.,Staff & Service,Neutral,2019
+Neha Kakkar Live Mumbai,Comedy,Jaipur,The staff was rude and unhelpful.,Staff & Service,Negative,2022
+Neha Kakkar Live Mumbai,Sports,Hyderabad,A night to remember!,Value for Money,Positive,2021
+Neha Kakkar Live Mumbai,Sports,Kolkata,Had fun but a few things could be improved.,Value for Money,Neutral,2021
+Neha Kakkar Live Mumbai,Comedy,Jaipur,The event was a complete letdown.,Value for Money,Negative,2021
+Neha Kakkar Live Delhi,Fashion,Delhi,The event was well-organized and enjoyable.,Content Quality,Positive,2021
+Neha Kakkar Live Delhi,Sports,Goa,"It was okay, but I expected more.",Content Quality,Neutral,2019
+Neha Kakkar Live Delhi,Theatre,Jaipur,Poor sound quality and bad management.,Content Quality,Negative,2022
+Neha Kakkar Live Delhi,Fashion,Goa,A night to remember!,Venue & Facilities,Positive,2021
+Neha Kakkar Live Delhi,Comedy,Kolkata,"The event was alright, but not exceptional.",Venue & Facilities,Neutral,2019
+Neha Kakkar Live Delhi,Theatre,Ahmedabad,Disappointed with the organization.,Venue & Facilities,Negative,2022
+Neha Kakkar Live Delhi,Music,Jaipur,The event was well-organized and enjoyable.,Staff & Service,Positive,2022
+Neha Kakkar Live Delhi,Music,Jaipur,Okayish experience overall.,Staff & Service,Neutral,2021
+Neha Kakkar Live Delhi,Comedy,Bangalore,Not worth the money spent.,Staff & Service,Negative,2020
+Neha Kakkar Live Delhi,Fashion,Kolkata,Fantastic vibe and great organization!,Value for Money,Positive,2022
+Neha Kakkar Live Delhi,Comedy,Goa,Could have been better organized.,Value for Money,Neutral,2022
+Neha Kakkar Live Delhi,Fashion,Ahmedabad,The event was a complete letdown.,Value for Money,Negative,2023
+Neha Kakkar Live Kolkata,Comedy,Delhi,Fantastic vibe and great organization!,Content Quality,Positive,2021
+Neha Kakkar Live Kolkata,Comedy,Ahmedabad,"The event was alright, but not exceptional.",Content Quality,Neutral,2022
+Neha Kakkar Live Kolkata,Sports,Hyderabad,Disappointed with the organization.,Content Quality,Negative,2019
+Neha Kakkar Live Kolkata,Music,Jaipur,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2020
+Neha Kakkar Live Kolkata,Music,Mumbai,"Average event, could be better.",Venue & Facilities,Neutral,2021
+Neha Kakkar Live Kolkata,Comedy,Pune,Expected better performances.,Venue & Facilities,Negative,2021
+Neha Kakkar Live Kolkata,Comedy,Pune,"Stellar show, exceeded expectations!",Staff & Service,Positive,2023
+Neha Kakkar Live Kolkata,Fashion,Ahmedabad,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2023
+Neha Kakkar Live Kolkata,Music,Ahmedabad,Poor sound quality and bad management.,Staff & Service,Negative,2019
+Neha Kakkar Live Kolkata,Music,Pune,Amazing performance and great energy!,Value for Money,Positive,2021
+Neha Kakkar Live Kolkata,Music,Ahmedabad,"Mixed feelings, some good moments.",Value for Money,Neutral,2023
+Neha Kakkar Live Kolkata,Music,Goa,The venue was too crowded and uncomfortable.,Value for Money,Negative,2020
+Yo Yo Honey Singh Comeback Show Mumbai,Comedy,Ahmedabad,Fantastic vibe and great organization!,Content Quality,Positive,2020
+Yo Yo Honey Singh Comeback Show Mumbai,Theatre,Goa,"The event was alright, but not exceptional.",Content Quality,Neutral,2021
+Yo Yo Honey Singh Comeback Show Mumbai,Music,Bangalore,Crowd management was terrible.,Content Quality,Negative,2022
+Yo Yo Honey Singh Comeback Show Mumbai,Comedy,Chennai,Absolutely magical experience!,Venue & Facilities,Positive,2020
+Yo Yo Honey Singh Comeback Show Mumbai,Fashion,Pune,Could have been better organized.,Venue & Facilities,Neutral,2021
+Yo Yo Honey Singh Comeback Show Mumbai,Comedy,Bangalore,The staff was rude and unhelpful.,Venue & Facilities,Negative,2023
+Yo Yo Honey Singh Comeback Show Mumbai,Music,Delhi,"Stellar show, exceeded expectations!",Staff & Service,Positive,2020
+Yo Yo Honey Singh Comeback Show Mumbai,Sports,Delhi,Could have been better organized.,Staff & Service,Neutral,2020
+Yo Yo Honey Singh Comeback Show Mumbai,Comedy,Ahmedabad,The performances were underwhelming.,Staff & Service,Negative,2020
+Yo Yo Honey Singh Comeback Show Mumbai,Theatre,Chennai,"Great value for money, would attend again!",Value for Money,Positive,2023
+Yo Yo Honey Singh Comeback Show Mumbai,Fashion,Chennai,It was decent but nothing extraordinary.,Value for Money,Neutral,2020
+Yo Yo Honey Singh Comeback Show Mumbai,Sports,Kolkata,The venue was too crowded and uncomfortable.,Value for Money,Negative,2019
+Yo Yo Honey Singh Comeback Show Delhi,Fashion,Mumbai,Fantastic vibe and great organization!,Content Quality,Positive,2022
+Yo Yo Honey Singh Comeback Show Delhi,Fashion,Kolkata,"Mixed feelings, some good moments.",Content Quality,Neutral,2023
+Yo Yo Honey Singh Comeback Show Delhi,Comedy,Pune,Crowd management was terrible.,Content Quality,Negative,2019
+Yo Yo Honey Singh Comeback Show Delhi,Theatre,Delhi,"Great value for money, would attend again!",Venue & Facilities,Positive,2021
+Yo Yo Honey Singh Comeback Show Delhi,Comedy,Goa,Okayish experience overall.,Venue & Facilities,Neutral,2022
+Yo Yo Honey Singh Comeback Show Delhi,Sports,Chennai,The staff was rude and unhelpful.,Venue & Facilities,Negative,2020
+Yo Yo Honey Singh Comeback Show Delhi,Sports,Hyderabad,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Yo Yo Honey Singh Comeback Show Delhi,Fashion,Kolkata,Could have been better organized.,Staff & Service,Neutral,2021
+Yo Yo Honey Singh Comeback Show Delhi,Fashion,Delhi,Expected better performances.,Staff & Service,Negative,2021
+Yo Yo Honey Singh Comeback Show Delhi,Comedy,Kolkata,The venue was perfect and the staff was very helpful.,Value for Money,Positive,2019
+Yo Yo Honey Singh Comeback Show Delhi,Music,Delhi,Could have been better organized.,Value for Money,Neutral,2020
+Yo Yo Honey Singh Comeback Show Delhi,Music,Mumbai,The event was a complete letdown.,Value for Money,Negative,2022
+Yo Yo Honey Singh Comeback Show Bangalore,Fashion,Chennai,"Great value for money, would attend again!",Content Quality,Positive,2020
+Yo Yo Honey Singh Comeback Show Bangalore,Comedy,Hyderabad,Could have been better organized.,Content Quality,Neutral,2019
+Yo Yo Honey Singh Comeback Show Bangalore,Theatre,Hyderabad,I would not recommend this event to anyone.,Content Quality,Negative,2022
+Yo Yo Honey Singh Comeback Show Bangalore,Music,Mumbai,Amazing performance and great energy!,Venue & Facilities,Positive,2023
+Yo Yo Honey Singh Comeback Show Bangalore,Comedy,Pune,Okayish experience overall.,Venue & Facilities,Neutral,2019
+Yo Yo Honey Singh Comeback Show Bangalore,Sports,Jaipur,Not worth the money spent.,Venue & Facilities,Negative,2019
+Yo Yo Honey Singh Comeback Show Bangalore,Sports,Delhi,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Yo Yo Honey Singh Comeback Show Bangalore,Music,Pune,Could have been better organized.,Staff & Service,Neutral,2022
+Yo Yo Honey Singh Comeback Show Bangalore,Theatre,Pune,I would not recommend this event to anyone.,Staff & Service,Negative,2019
+Yo Yo Honey Singh Comeback Show Bangalore,Fashion,Pune,Absolutely magical experience!,Value for Money,Positive,2021
+Yo Yo Honey Singh Comeback Show Bangalore,Sports,Jaipur,Had fun but a few things could be improved.,Value for Money,Neutral,2022
+Yo Yo Honey Singh Comeback Show Bangalore,Music,Bangalore,The performances were underwhelming.,Value for Money,Negative,2022
+Bhuvan Bam Live Mumbai,Fashion,Jaipur,Absolutely magical experience!,Content Quality,Positive,2023
+Bhuvan Bam Live Mumbai,Theatre,Jaipur,"Average event, could be better.",Content Quality,Neutral,2020
+Bhuvan Bam Live Mumbai,Theatre,Jaipur,The event was a complete letdown.,Content Quality,Negative,2020
+Bhuvan Bam Live Mumbai,Music,Hyderabad,A night to remember!,Venue & Facilities,Positive,2019
+Bhuvan Bam Live Mumbai,Fashion,Hyderabad,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2021
+Bhuvan Bam Live Mumbai,Fashion,Ahmedabad,Expected better performances.,Venue & Facilities,Negative,2021
+Bhuvan Bam Live Mumbai,Comedy,Delhi,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2020
+Bhuvan Bam Live Mumbai,Theatre,Ahmedabad,Had fun but a few things could be improved.,Staff & Service,Neutral,2023
+Bhuvan Bam Live Mumbai,Sports,Hyderabad,Not worth the money spent.,Staff & Service,Negative,2021
+Bhuvan Bam Live Mumbai,Fashion,Hyderabad,The event was well-organized and enjoyable.,Value for Money,Positive,2019
+Bhuvan Bam Live Mumbai,Music,Jaipur,It was decent but nothing extraordinary.,Value for Money,Neutral,2022
+Bhuvan Bam Live Mumbai,Comedy,Hyderabad,The event was a complete letdown.,Value for Money,Negative,2023
+Bhuvan Bam Live Delhi,Comedy,Kolkata,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2023
+Bhuvan Bam Live Delhi,Theatre,Chennai,"It was okay, but I expected more.",Content Quality,Neutral,2021
+Bhuvan Bam Live Delhi,Fashion,Ahmedabad,The performances were underwhelming.,Content Quality,Negative,2022
+Bhuvan Bam Live Delhi,Music,Mumbai,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2019
+Bhuvan Bam Live Delhi,Fashion,Pune,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2019
+Bhuvan Bam Live Delhi,Fashion,Bangalore,The event was a complete letdown.,Venue & Facilities,Negative,2020
+Bhuvan Bam Live Delhi,Music,Mumbai,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Bhuvan Bam Live Delhi,Theatre,Kolkata,Okayish experience overall.,Staff & Service,Neutral,2021
+Bhuvan Bam Live Delhi,Comedy,Chennai,Not worth the money spent.,Staff & Service,Negative,2019
+Bhuvan Bam Live Delhi,Fashion,Chennai,Absolutely magical experience!,Value for Money,Positive,2022
+Bhuvan Bam Live Delhi,Music,Ahmedabad,It was decent but nothing extraordinary.,Value for Money,Neutral,2019
+Bhuvan Bam Live Delhi,Music,Mumbai,I would not recommend this event to anyone.,Value for Money,Negative,2020
+Bhuvan Bam Live Pune,Sports,Pune,"Stellar show, exceeded expectations!",Content Quality,Positive,2019
+Bhuvan Bam Live Pune,Fashion,Ahmedabad,"Average event, could be better.",Content Quality,Neutral,2019
+Bhuvan Bam Live Pune,Comedy,Kolkata,Expected better performances.,Content Quality,Negative,2020
+Bhuvan Bam Live Pune,Comedy,Mumbai,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2021
+Bhuvan Bam Live Pune,Sports,Kolkata,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2023
+Bhuvan Bam Live Pune,Theatre,Ahmedabad,Expected better performances.,Venue & Facilities,Negative,2019
+Bhuvan Bam Live Pune,Theatre,Jaipur,A night to remember!,Staff & Service,Positive,2022
+Bhuvan Bam Live Pune,Theatre,Chennai,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2020
+Bhuvan Bam Live Pune,Sports,Pune,Crowd management was terrible.,Staff & Service,Negative,2020
+Bhuvan Bam Live Pune,Sports,Kolkata,Fantastic vibe and great organization!,Value for Money,Positive,2023
+Bhuvan Bam Live Pune,Fashion,Mumbai,It was decent but nothing extraordinary.,Value for Money,Neutral,2023
+Bhuvan Bam Live Pune,Sports,Mumbai,The event was a complete letdown.,Value for Money,Negative,2021
+Rahul Subramanian Standup Mumbai,Comedy,Hyderabad,The artists were phenomenal!,Content Quality,Positive,2019
+Rahul Subramanian Standup Mumbai,Theatre,Jaipur,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2022
+Rahul Subramanian Standup Mumbai,Comedy,Bangalore,Crowd management was terrible.,Content Quality,Negative,2022
+Rahul Subramanian Standup Mumbai,Music,Jaipur,"Great value for money, would attend again!",Venue & Facilities,Positive,2021
+Rahul Subramanian Standup Mumbai,Fashion,Pune,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2020
+Rahul Subramanian Standup Mumbai,Music,Jaipur,Expected better performances.,Venue & Facilities,Negative,2020
+Rahul Subramanian Standup Mumbai,Theatre,Goa,"Great value for money, would attend again!",Staff & Service,Positive,2022
+Rahul Subramanian Standup Mumbai,Comedy,Jaipur,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2022
+Rahul Subramanian Standup Mumbai,Theatre,Hyderabad,I would not recommend this event to anyone.,Staff & Service,Negative,2023
+Rahul Subramanian Standup Mumbai,Music,Chennai,The venue was perfect and the staff was very helpful.,Value for Money,Positive,2021
+Rahul Subramanian Standup Mumbai,Theatre,Chennai,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2021
+Rahul Subramanian Standup Mumbai,Theatre,Jaipur,Expected better performances.,Value for Money,Negative,2020
+Rahul Subramanian Standup Delhi,Music,Chennai,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2022
+Rahul Subramanian Standup Delhi,Comedy,Goa,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2023
+Rahul Subramanian Standup Delhi,Music,Delhi,Disappointed with the organization.,Content Quality,Negative,2021
+Rahul Subramanian Standup Delhi,Sports,Kolkata,Absolutely magical experience!,Venue & Facilities,Positive,2019
+Rahul Subramanian Standup Delhi,Comedy,Jaipur,Okayish experience overall.,Venue & Facilities,Neutral,2022
+Rahul Subramanian Standup Delhi,Comedy,Mumbai,Not worth the money spent.,Venue & Facilities,Negative,2019
+Rahul Subramanian Standup Delhi,Comedy,Kolkata,A night to remember!,Staff & Service,Positive,2019
+Rahul Subramanian Standup Delhi,Sports,Ahmedabad,"The event was alright, but not exceptional.",Staff & Service,Neutral,2019
+Rahul Subramanian Standup Delhi,Music,Kolkata,Poor sound quality and bad management.,Staff & Service,Negative,2019
+Rahul Subramanian Standup Delhi,Music,Kolkata,A night to remember!,Value for Money,Positive,2020
+Rahul Subramanian Standup Delhi,Comedy,Pune,It was decent but nothing extraordinary.,Value for Money,Neutral,2019
+Rahul Subramanian Standup Delhi,Fashion,Ahmedabad,The staff was rude and unhelpful.,Value for Money,Negative,2021
+Rahul Subramanian Standup Bangalore,Theatre,Pune,"Stellar show, exceeded expectations!",Content Quality,Positive,2020
+Rahul Subramanian Standup Bangalore,Comedy,Jaipur,Okayish experience overall.,Content Quality,Neutral,2021
+Rahul Subramanian Standup Bangalore,Sports,Goa,The venue was too crowded and uncomfortable.,Content Quality,Negative,2021
+Rahul Subramanian Standup Bangalore,Sports,Delhi,Fantastic vibe and great organization!,Venue & Facilities,Positive,2019
+Rahul Subramanian Standup Bangalore,Theatre,Delhi,"Average event, could be better.",Venue & Facilities,Neutral,2021
+Rahul Subramanian Standup Bangalore,Music,Jaipur,The venue was too crowded and uncomfortable.,Venue & Facilities,Negative,2023
+Rahul Subramanian Standup Bangalore,Comedy,Bangalore,Amazing performance and great energy!,Staff & Service,Positive,2019
+Rahul Subramanian Standup Bangalore,Fashion,Hyderabad,"Mixed feelings, some good moments.",Staff & Service,Neutral,2020
+Rahul Subramanian Standup Bangalore,Music,Ahmedabad,I would not recommend this event to anyone.,Staff & Service,Negative,2023
+Rahul Subramanian Standup Bangalore,Comedy,Delhi,"Stellar show, exceeded expectations!",Value for Money,Positive,2020
+Rahul Subramanian Standup Bangalore,Fashion,Mumbai,Could have been better organized.,Value for Money,Neutral,2023
+Rahul Subramanian Standup Bangalore,Music,Hyderabad,The venue was too crowded and uncomfortable.,Value for Money,Negative,2020
+Amit Tandon Standup Mumbai,Fashion,Kolkata,"Stellar show, exceeded expectations!",Content Quality,Positive,2020
+Amit Tandon Standup Mumbai,Theatre,Mumbai,"Decent experience, but not worth the hype.",Content Quality,Neutral,2022
+Amit Tandon Standup Mumbai,Sports,Chennai,I would not recommend this event to anyone.,Content Quality,Negative,2021
+Amit Tandon Standup Mumbai,Music,Mumbai,Absolutely magical experience!,Venue & Facilities,Positive,2023
+Amit Tandon Standup Mumbai,Music,Ahmedabad,Okayish experience overall.,Venue & Facilities,Neutral,2019
+Amit Tandon Standup Mumbai,Comedy,Bangalore,Crowd management was terrible.,Venue & Facilities,Negative,2023
+Amit Tandon Standup Mumbai,Fashion,Goa,The event was well-organized and enjoyable.,Staff & Service,Positive,2020
+Amit Tandon Standup Mumbai,Comedy,Mumbai,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2022
+Amit Tandon Standup Mumbai,Fashion,Ahmedabad,The performances were underwhelming.,Staff & Service,Negative,2021
+Amit Tandon Standup Mumbai,Theatre,Bangalore,The event was well-organized and enjoyable.,Value for Money,Positive,2022
+Amit Tandon Standup Mumbai,Comedy,Chennai,It was decent but nothing extraordinary.,Value for Money,Neutral,2021
+Amit Tandon Standup Mumbai,Sports,Delhi,Poor sound quality and bad management.,Value for Money,Negative,2019
+Amit Tandon Standup Delhi,Theatre,Chennai,The artists were phenomenal!,Content Quality,Positive,2023
+Amit Tandon Standup Delhi,Sports,Delhi,"Mixed feelings, some good moments.",Content Quality,Neutral,2019
+Amit Tandon Standup Delhi,Music,Ahmedabad,The staff was rude and unhelpful.,Content Quality,Negative,2023
+Amit Tandon Standup Delhi,Theatre,Chennai,Amazing performance and great energy!,Venue & Facilities,Positive,2022
+Amit Tandon Standup Delhi,Theatre,Jaipur,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2019
+Amit Tandon Standup Delhi,Music,Goa,Crowd management was terrible.,Venue & Facilities,Negative,2020
+Amit Tandon Standup Delhi,Fashion,Mumbai,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2021
+Amit Tandon Standup Delhi,Theatre,Delhi,"The event was alright, but not exceptional.",Staff & Service,Neutral,2021
+Amit Tandon Standup Delhi,Comedy,Ahmedabad,Crowd management was terrible.,Staff & Service,Negative,2019
+Amit Tandon Standup Delhi,Sports,Ahmedabad,Absolutely magical experience!,Value for Money,Positive,2022
+Amit Tandon Standup Delhi,Sports,Jaipur,"Decent experience, but not worth the hype.",Value for Money,Neutral,2020
+Amit Tandon Standup Delhi,Music,Goa,Disappointed with the organization.,Value for Money,Negative,2021
+Amit Tandon Standup Pune,Sports,Jaipur,Absolutely magical experience!,Content Quality,Positive,2020
+Amit Tandon Standup Pune,Theatre,Goa,"It was okay, but I expected more.",Content Quality,Neutral,2021
+Amit Tandon Standup Pune,Music,Delhi,Not worth the money spent.,Content Quality,Negative,2020
+Amit Tandon Standup Pune,Fashion,Mumbai,"Great value for money, would attend again!",Venue & Facilities,Positive,2021
+Amit Tandon Standup Pune,Sports,Kolkata,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2022
+Amit Tandon Standup Pune,Music,Jaipur,Expected better performances.,Venue & Facilities,Negative,2020
+Amit Tandon Standup Pune,Music,Mumbai,"Loved the experience, highly recommended!",Staff & Service,Positive,2020
+Amit Tandon Standup Pune,Sports,Pune,Okayish experience overall.,Staff & Service,Neutral,2019
+Amit Tandon Standup Pune,Music,Ahmedabad,Disappointed with the organization.,Staff & Service,Negative,2020
+Amit Tandon Standup Pune,Music,Chennai,"Stellar show, exceeded expectations!",Value for Money,Positive,2023
+Amit Tandon Standup Pune,Fashion,Goa,"Mixed feelings, some good moments.",Value for Money,Neutral,2022
+Amit Tandon Standup Pune,Comedy,Goa,Expected better performances.,Value for Money,Negative,2019
+Gaurav Kapoor Standup Mumbai,Sports,Hyderabad,The artists were phenomenal!,Content Quality,Positive,2023
+Gaurav Kapoor Standup Mumbai,Music,Chennai,"The event was alright, but not exceptional.",Content Quality,Neutral,2020
+Gaurav Kapoor Standup Mumbai,Music,Delhi,Crowd management was terrible.,Content Quality,Negative,2021
+Gaurav Kapoor Standup Mumbai,Sports,Goa,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2021
+Gaurav Kapoor Standup Mumbai,Fashion,Kolkata,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2020
+Gaurav Kapoor Standup Mumbai,Sports,Hyderabad,Not worth the money spent.,Venue & Facilities,Negative,2019
+Gaurav Kapoor Standup Mumbai,Sports,Chennai,"Stellar show, exceeded expectations!",Staff & Service,Positive,2022
+Gaurav Kapoor Standup Mumbai,Comedy,Chennai,It was decent but nothing extraordinary.,Staff & Service,Neutral,2020
+Gaurav Kapoor Standup Mumbai,Comedy,Hyderabad,I would not recommend this event to anyone.,Staff & Service,Negative,2019
+Gaurav Kapoor Standup Mumbai,Fashion,Hyderabad,"Great value for money, would attend again!",Value for Money,Positive,2020
+Gaurav Kapoor Standup Mumbai,Fashion,Ahmedabad,"Decent experience, but not worth the hype.",Value for Money,Neutral,2019
+Gaurav Kapoor Standup Mumbai,Music,Delhi,Crowd management was terrible.,Value for Money,Negative,2023
+Gaurav Kapoor Standup Delhi,Sports,Pune,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2020
+Gaurav Kapoor Standup Delhi,Fashion,Chennai,It was decent but nothing extraordinary.,Content Quality,Neutral,2020
+Gaurav Kapoor Standup Delhi,Sports,Chennai,The staff was rude and unhelpful.,Content Quality,Negative,2019
+Gaurav Kapoor Standup Delhi,Fashion,Chennai,Absolutely magical experience!,Venue & Facilities,Positive,2021
+Gaurav Kapoor Standup Delhi,Music,Chennai,"The event was alright, but not exceptional.",Venue & Facilities,Neutral,2019
+Gaurav Kapoor Standup Delhi,Theatre,Delhi,Disappointed with the organization.,Venue & Facilities,Negative,2020
+Gaurav Kapoor Standup Delhi,Sports,Chennai,Fantastic vibe and great organization!,Staff & Service,Positive,2020
+Gaurav Kapoor Standup Delhi,Sports,Kolkata,Could have been better organized.,Staff & Service,Neutral,2023
+Gaurav Kapoor Standup Delhi,Sports,Goa,Not worth the money spent.,Staff & Service,Negative,2019
+Gaurav Kapoor Standup Delhi,Comedy,Mumbai,"Stellar show, exceeded expectations!",Value for Money,Positive,2020
+Gaurav Kapoor Standup Delhi,Theatre,Goa,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2023
+Gaurav Kapoor Standup Delhi,Sports,Kolkata,Not worth the money spent.,Value for Money,Negative,2023
+Gaurav Kapoor Standup Bangalore,Music,Goa,"Great value for money, would attend again!",Content Quality,Positive,2023
+Gaurav Kapoor Standup Bangalore,Theatre,Bangalore,Had fun but a few things could be improved.,Content Quality,Neutral,2021
+Gaurav Kapoor Standup Bangalore,Sports,Delhi,The event was a complete letdown.,Content Quality,Negative,2021
+Gaurav Kapoor Standup Bangalore,Music,Jaipur,Fantastic vibe and great organization!,Venue & Facilities,Positive,2021
+Gaurav Kapoor Standup Bangalore,Music,Hyderabad,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2022
+Gaurav Kapoor Standup Bangalore,Theatre,Pune,Poor sound quality and bad management.,Venue & Facilities,Negative,2023
+Gaurav Kapoor Standup Bangalore,Fashion,Ahmedabad,"Stellar show, exceeded expectations!",Staff & Service,Positive,2023
+Gaurav Kapoor Standup Bangalore,Fashion,Hyderabad,"The event was alright, but not exceptional.",Staff & Service,Neutral,2020
+Gaurav Kapoor Standup Bangalore,Sports,Delhi,Crowd management was terrible.,Staff & Service,Negative,2022
+Gaurav Kapoor Standup Bangalore,Fashion,Mumbai,Absolutely magical experience!,Value for Money,Positive,2023
+Gaurav Kapoor Standup Bangalore,Music,Mumbai,"Mixed feelings, some good moments.",Value for Money,Neutral,2022
+Gaurav Kapoor Standup Bangalore,Sports,Chennai,The venue was too crowded and uncomfortable.,Value for Money,Negative,2022
+Biswa Kalyan Rath Standup Mumbai,Music,Ahmedabad,The artists were phenomenal!,Content Quality,Positive,2020
+Biswa Kalyan Rath Standup Mumbai,Sports,Delhi,Could have been better organized.,Content Quality,Neutral,2023
+Biswa Kalyan Rath Standup Mumbai,Theatre,Chennai,Crowd management was terrible.,Content Quality,Negative,2019
+Biswa Kalyan Rath Standup Mumbai,Fashion,Kolkata,Amazing performance and great energy!,Venue & Facilities,Positive,2019
+Biswa Kalyan Rath Standup Mumbai,Theatre,Chennai,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2021
+Biswa Kalyan Rath Standup Mumbai,Sports,Mumbai,I would not recommend this event to anyone.,Venue & Facilities,Negative,2020
+Biswa Kalyan Rath Standup Mumbai,Theatre,Ahmedabad,The event was well-organized and enjoyable.,Staff & Service,Positive,2020
+Biswa Kalyan Rath Standup Mumbai,Sports,Ahmedabad,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2020
+Biswa Kalyan Rath Standup Mumbai,Sports,Mumbai,The staff was rude and unhelpful.,Staff & Service,Negative,2021
+Biswa Kalyan Rath Standup Mumbai,Theatre,Ahmedabad,"Stellar show, exceeded expectations!",Value for Money,Positive,2021
+Biswa Kalyan Rath Standup Mumbai,Theatre,Pune,It was decent but nothing extraordinary.,Value for Money,Neutral,2021
+Biswa Kalyan Rath Standup Mumbai,Sports,Kolkata,The venue was too crowded and uncomfortable.,Value for Money,Negative,2021
+Biswa Kalyan Rath Standup Delhi,Comedy,Goa,The event was well-organized and enjoyable.,Content Quality,Positive,2022
+Biswa Kalyan Rath Standup Delhi,Fashion,Chennai,"Average event, could be better.",Content Quality,Neutral,2019
+Biswa Kalyan Rath Standup Delhi,Music,Hyderabad,I would not recommend this event to anyone.,Content Quality,Negative,2019
+Biswa Kalyan Rath Standup Delhi,Fashion,Goa,A night to remember!,Venue & Facilities,Positive,2020
+Biswa Kalyan Rath Standup Delhi,Fashion,Hyderabad,"Average event, could be better.",Venue & Facilities,Neutral,2020
+Biswa Kalyan Rath Standup Delhi,Theatre,Bangalore,Not worth the money spent.,Venue & Facilities,Negative,2019
+Biswa Kalyan Rath Standup Delhi,Theatre,Goa,Fantastic vibe and great organization!,Staff & Service,Positive,2020
+Biswa Kalyan Rath Standup Delhi,Fashion,Ahmedabad,Okayish experience overall.,Staff & Service,Neutral,2023
+Biswa Kalyan Rath Standup Delhi,Music,Chennai,Not worth the money spent.,Staff & Service,Negative,2022
+Biswa Kalyan Rath Standup Delhi,Sports,Jaipur,Fantastic vibe and great organization!,Value for Money,Positive,2023
+Biswa Kalyan Rath Standup Delhi,Fashion,Goa,"Decent experience, but not worth the hype.",Value for Money,Neutral,2020
+Biswa Kalyan Rath Standup Delhi,Sports,Jaipur,Expected better performances.,Value for Money,Negative,2022
+Biswa Kalyan Rath Standup Bangalore,Fashion,Ahmedabad,Absolutely magical experience!,Content Quality,Positive,2019
+Biswa Kalyan Rath Standup Bangalore,Fashion,Kolkata,Okayish experience overall.,Content Quality,Neutral,2023
+Biswa Kalyan Rath Standup Bangalore,Fashion,Goa,The staff was rude and unhelpful.,Content Quality,Negative,2022
+Biswa Kalyan Rath Standup Bangalore,Music,Jaipur,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2020
+Biswa Kalyan Rath Standup Bangalore,Sports,Hyderabad,Okayish experience overall.,Venue & Facilities,Neutral,2021
+Biswa Kalyan Rath Standup Bangalore,Theatre,Jaipur,The staff was rude and unhelpful.,Venue & Facilities,Negative,2022
+Biswa Kalyan Rath Standup Bangalore,Comedy,Bangalore,The artists were phenomenal!,Staff & Service,Positive,2022
+Biswa Kalyan Rath Standup Bangalore,Sports,Jaipur,Okayish experience overall.,Staff & Service,Neutral,2019
+Biswa Kalyan Rath Standup Bangalore,Comedy,Ahmedabad,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2023
+Biswa Kalyan Rath Standup Bangalore,Music,Kolkata,Fantastic vibe and great organization!,Value for Money,Positive,2020
+Biswa Kalyan Rath Standup Bangalore,Music,Chennai,Okayish experience overall.,Value for Money,Neutral,2021
+Biswa Kalyan Rath Standup Bangalore,Music,Bangalore,The performances were underwhelming.,Value for Money,Negative,2022
+Indian Fashion Carnival Mumbai,Sports,Bangalore,A night to remember!,Content Quality,Positive,2020
+Indian Fashion Carnival Mumbai,Music,Jaipur,Okayish experience overall.,Content Quality,Neutral,2023
+Indian Fashion Carnival Mumbai,Theatre,Hyderabad,Poor sound quality and bad management.,Content Quality,Negative,2020
+Indian Fashion Carnival Mumbai,Music,Ahmedabad,The artists were phenomenal!,Venue & Facilities,Positive,2022
+Indian Fashion Carnival Mumbai,Sports,Jaipur,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2021
+Indian Fashion Carnival Mumbai,Comedy,Pune,The performances were underwhelming.,Venue & Facilities,Negative,2019
+Indian Fashion Carnival Mumbai,Fashion,Mumbai,"Great value for money, would attend again!",Staff & Service,Positive,2021
+Indian Fashion Carnival Mumbai,Fashion,Ahmedabad,Could have been better organized.,Staff & Service,Neutral,2023
+Indian Fashion Carnival Mumbai,Fashion,Ahmedabad,Poor sound quality and bad management.,Staff & Service,Negative,2019
+Indian Fashion Carnival Mumbai,Music,Chennai,The event was well-organized and enjoyable.,Value for Money,Positive,2023
+Indian Fashion Carnival Mumbai,Comedy,Delhi,Okayish experience overall.,Value for Money,Neutral,2023
+Indian Fashion Carnival Mumbai,Theatre,Kolkata,Crowd management was terrible.,Value for Money,Negative,2020
+Indian Fashion Carnival Delhi,Sports,Hyderabad,Amazing performance and great energy!,Content Quality,Positive,2023
+Indian Fashion Carnival Delhi,Music,Goa,Okayish experience overall.,Content Quality,Neutral,2021
+Indian Fashion Carnival Delhi,Comedy,Delhi,Expected better performances.,Content Quality,Negative,2023
+Indian Fashion Carnival Delhi,Theatre,Ahmedabad,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2019
+Indian Fashion Carnival Delhi,Fashion,Hyderabad,Okayish experience overall.,Venue & Facilities,Neutral,2021
+Indian Fashion Carnival Delhi,Music,Hyderabad,The staff was rude and unhelpful.,Venue & Facilities,Negative,2021
+Indian Fashion Carnival Delhi,Comedy,Mumbai,"Stellar show, exceeded expectations!",Staff & Service,Positive,2021
+Indian Fashion Carnival Delhi,Fashion,Ahmedabad,Okayish experience overall.,Staff & Service,Neutral,2023
+Indian Fashion Carnival Delhi,Theatre,Ahmedabad,Not worth the money spent.,Staff & Service,Negative,2023
+Indian Fashion Carnival Delhi,Comedy,Delhi,The artists were phenomenal!,Value for Money,Positive,2020
+Indian Fashion Carnival Delhi,Sports,Jaipur,"It was okay, but I expected more.",Value for Money,Neutral,2019
+Indian Fashion Carnival Delhi,Fashion,Hyderabad,Expected better performances.,Value for Money,Negative,2021
+Indian Fashion Carnival Bangalore,Sports,Chennai,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2023
+Indian Fashion Carnival Bangalore,Sports,Pune,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2019
+Indian Fashion Carnival Bangalore,Comedy,Ahmedabad,I would not recommend this event to anyone.,Content Quality,Negative,2019
+Indian Fashion Carnival Bangalore,Theatre,Chennai,Amazing performance and great energy!,Venue & Facilities,Positive,2023
+Indian Fashion Carnival Bangalore,Theatre,Kolkata,Okayish experience overall.,Venue & Facilities,Neutral,2021
+Indian Fashion Carnival Bangalore,Sports,Jaipur,Not worth the money spent.,Venue & Facilities,Negative,2019
+Indian Fashion Carnival Bangalore,Fashion,Mumbai,"Great value for money, would attend again!",Staff & Service,Positive,2022
+Indian Fashion Carnival Bangalore,Fashion,Delhi,"Average event, could be better.",Staff & Service,Neutral,2021
+Indian Fashion Carnival Bangalore,Sports,Hyderabad,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2020
+Indian Fashion Carnival Bangalore,Music,Ahmedabad,The artists were phenomenal!,Value for Money,Positive,2023
+Indian Fashion Carnival Bangalore,Music,Bangalore,Could have been better organized.,Value for Money,Neutral,2020
+Indian Fashion Carnival Bangalore,Comedy,Pune,The performances were underwhelming.,Value for Money,Negative,2019
+Classical Night with Pandit Jasraj Mumbai,Comedy,Mumbai,The artists were phenomenal!,Content Quality,Positive,2019
+Classical Night with Pandit Jasraj Mumbai,Comedy,Goa,It was decent but nothing extraordinary.,Content Quality,Neutral,2021
+Classical Night with Pandit Jasraj Mumbai,Comedy,Bangalore,The performances were underwhelming.,Content Quality,Negative,2021
+Classical Night with Pandit Jasraj Mumbai,Fashion,Kolkata,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2022
+Classical Night with Pandit Jasraj Mumbai,Sports,Mumbai,"Average event, could be better.",Venue & Facilities,Neutral,2022
+Classical Night with Pandit Jasraj Mumbai,Theatre,Kolkata,Poor sound quality and bad management.,Venue & Facilities,Negative,2023
+Classical Night with Pandit Jasraj Mumbai,Music,Ahmedabad,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2021
+Classical Night with Pandit Jasraj Mumbai,Music,Delhi,"Average event, could be better.",Staff & Service,Neutral,2019
+Classical Night with Pandit Jasraj Mumbai,Music,Delhi,I would not recommend this event to anyone.,Staff & Service,Negative,2020
+Classical Night with Pandit Jasraj Mumbai,Music,Hyderabad,"Great value for money, would attend again!",Value for Money,Positive,2020
+Classical Night with Pandit Jasraj Mumbai,Comedy,Kolkata,"Average event, could be better.",Value for Money,Neutral,2021
+Classical Night with Pandit Jasraj Mumbai,Fashion,Ahmedabad,The performances were underwhelming.,Value for Money,Negative,2022
+Classical Night with Pandit Jasraj Delhi,Theatre,Jaipur,"Stellar show, exceeded expectations!",Content Quality,Positive,2019
+Classical Night with Pandit Jasraj Delhi,Music,Ahmedabad,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2021
+Classical Night with Pandit Jasraj Delhi,Sports,Jaipur,The performances were underwhelming.,Content Quality,Negative,2022
+Classical Night with Pandit Jasraj Delhi,Fashion,Goa,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2020
+Classical Night with Pandit Jasraj Delhi,Music,Kolkata,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2020
+Classical Night with Pandit Jasraj Delhi,Fashion,Kolkata,Disappointed with the organization.,Venue & Facilities,Negative,2020
+Classical Night with Pandit Jasraj Delhi,Sports,Delhi,"Loved the experience, highly recommended!",Staff & Service,Positive,2021
+Classical Night with Pandit Jasraj Delhi,Sports,Hyderabad,Okayish experience overall.,Staff & Service,Neutral,2023
+Classical Night with Pandit Jasraj Delhi,Fashion,Hyderabad,Poor sound quality and bad management.,Staff & Service,Negative,2020
+Classical Night with Pandit Jasraj Delhi,Music,Hyderabad,"Loved the experience, highly recommended!",Value for Money,Positive,2019
+Classical Night with Pandit Jasraj Delhi,Music,Jaipur,Okayish experience overall.,Value for Money,Neutral,2022
+Classical Night with Pandit Jasraj Delhi,Sports,Goa,The performances were underwhelming.,Value for Money,Negative,2022
+Classical Night with Pandit Jasraj Kolkata,Fashion,Hyderabad,Absolutely magical experience!,Content Quality,Positive,2021
+Classical Night with Pandit Jasraj Kolkata,Comedy,Mumbai,It was decent but nothing extraordinary.,Content Quality,Neutral,2020
+Classical Night with Pandit Jasraj Kolkata,Fashion,Mumbai,The performances were underwhelming.,Content Quality,Negative,2022
+Classical Night with Pandit Jasraj Kolkata,Music,Jaipur,A night to remember!,Venue & Facilities,Positive,2022
+Classical Night with Pandit Jasraj Kolkata,Fashion,Ahmedabad,"It was okay, but I expected more.",Venue & Facilities,Neutral,2022
+Classical Night with Pandit Jasraj Kolkata,Theatre,Pune,The performances were underwhelming.,Venue & Facilities,Negative,2022
+Classical Night with Pandit Jasraj Kolkata,Comedy,Bangalore,"Stellar show, exceeded expectations!",Staff & Service,Positive,2022
+Classical Night with Pandit Jasraj Kolkata,Theatre,Hyderabad,"Average event, could be better.",Staff & Service,Neutral,2022
+Classical Night with Pandit Jasraj Kolkata,Fashion,Hyderabad,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2021
+Classical Night with Pandit Jasraj Kolkata,Fashion,Goa,"Great value for money, would attend again!",Value for Money,Positive,2023
+Classical Night with Pandit Jasraj Kolkata,Sports,Jaipur,"Mixed feelings, some good moments.",Value for Money,Neutral,2023
+Classical Night with Pandit Jasraj Kolkata,Sports,Ahmedabad,Poor sound quality and bad management.,Value for Money,Negative,2022
+Theatre: Mughal-e-Azam Mumbai,Sports,Bangalore,Absolutely magical experience!,Content Quality,Positive,2021
+Theatre: Mughal-e-Azam Mumbai,Comedy,Bangalore,Could have been better organized.,Content Quality,Neutral,2020
+Theatre: Mughal-e-Azam Mumbai,Sports,Pune,The performances were underwhelming.,Content Quality,Negative,2023
+Theatre: Mughal-e-Azam Mumbai,Fashion,Hyderabad,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2019
+Theatre: Mughal-e-Azam Mumbai,Sports,Chennai,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2022
+Theatre: Mughal-e-Azam Mumbai,Comedy,Chennai,The event was a complete letdown.,Venue & Facilities,Negative,2022
+Theatre: Mughal-e-Azam Mumbai,Fashion,Hyderabad,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2022
+Theatre: Mughal-e-Azam Mumbai,Sports,Kolkata,It was decent but nothing extraordinary.,Staff & Service,Neutral,2020
+Theatre: Mughal-e-Azam Mumbai,Theatre,Delhi,Crowd management was terrible.,Staff & Service,Negative,2019
+Theatre: Mughal-e-Azam Mumbai,Theatre,Kolkata,The venue was perfect and the staff was very helpful.,Value for Money,Positive,2021
+Theatre: Mughal-e-Azam Mumbai,Fashion,Mumbai,Had fun but a few things could be improved.,Value for Money,Neutral,2021
+Theatre: Mughal-e-Azam Mumbai,Fashion,Jaipur,The staff was rude and unhelpful.,Value for Money,Negative,2020
+Theatre: Mughal-e-Azam Delhi,Sports,Goa,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2021
+Theatre: Mughal-e-Azam Delhi,Sports,Jaipur,"Decent experience, but not worth the hype.",Content Quality,Neutral,2023
+Theatre: Mughal-e-Azam Delhi,Sports,Chennai,Disappointed with the organization.,Content Quality,Negative,2022
+Theatre: Mughal-e-Azam Delhi,Theatre,Bangalore,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2021
+Theatre: Mughal-e-Azam Delhi,Music,Chennai,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2019
+Theatre: Mughal-e-Azam Delhi,Fashion,Kolkata,The event was a complete letdown.,Venue & Facilities,Negative,2020
+Theatre: Mughal-e-Azam Delhi,Fashion,Goa,"Great value for money, would attend again!",Staff & Service,Positive,2021
+Theatre: Mughal-e-Azam Delhi,Theatre,Bangalore,It was decent but nothing extraordinary.,Staff & Service,Neutral,2020
+Theatre: Mughal-e-Azam Delhi,Fashion,Chennai,The staff was rude and unhelpful.,Staff & Service,Negative,2021
+Theatre: Mughal-e-Azam Delhi,Comedy,Chennai,"Great value for money, would attend again!",Value for Money,Positive,2021
+Theatre: Mughal-e-Azam Delhi,Theatre,Ahmedabad,"The event was alright, but not exceptional.",Value for Money,Neutral,2019
+Theatre: Mughal-e-Azam Delhi,Music,Hyderabad,Not worth the money spent.,Value for Money,Negative,2019
+Theatre: Mughal-e-Azam Bangalore,Theatre,Pune,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2021
+Theatre: Mughal-e-Azam Bangalore,Comedy,Jaipur,Okayish experience overall.,Content Quality,Neutral,2021
+Theatre: Mughal-e-Azam Bangalore,Music,Ahmedabad,The performances were underwhelming.,Content Quality,Negative,2019
+Theatre: Mughal-e-Azam Bangalore,Theatre,Mumbai,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2021
+Theatre: Mughal-e-Azam Bangalore,Theatre,Jaipur,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2022
+Theatre: Mughal-e-Azam Bangalore,Sports,Jaipur,Crowd management was terrible.,Venue & Facilities,Negative,2023
+Theatre: Mughal-e-Azam Bangalore,Fashion,Jaipur,Amazing performance and great energy!,Staff & Service,Positive,2022
+Theatre: Mughal-e-Azam Bangalore,Fashion,Jaipur,Could have been better organized.,Staff & Service,Neutral,2023
+Theatre: Mughal-e-Azam Bangalore,Fashion,Mumbai,The event was a complete letdown.,Staff & Service,Negative,2020
+Theatre: Mughal-e-Azam Bangalore,Music,Jaipur,"Great value for money, would attend again!",Value for Money,Positive,2023
+Theatre: Mughal-e-Azam Bangalore,Theatre,Hyderabad,It was decent but nothing extraordinary.,Value for Money,Neutral,2019
+Theatre: Mughal-e-Azam Bangalore,Comedy,Hyderabad,I would not recommend this event to anyone.,Value for Money,Negative,2022
+Gully Boy Music Fest Mumbai,Comedy,Hyderabad,"Stellar show, exceeded expectations!",Content Quality,Positive,2019
+Gully Boy Music Fest Mumbai,Sports,Ahmedabad,"Decent experience, but not worth the hype.",Content Quality,Neutral,2020
+Gully Boy Music Fest Mumbai,Fashion,Chennai,The performances were underwhelming.,Content Quality,Negative,2019
+Gully Boy Music Fest Mumbai,Music,Goa,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2021
+Gully Boy Music Fest Mumbai,Fashion,Bangalore,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2019
+Gully Boy Music Fest Mumbai,Theatre,Bangalore,Not worth the money spent.,Venue & Facilities,Negative,2019
+Gully Boy Music Fest Mumbai,Sports,Kolkata,The event was well-organized and enjoyable.,Staff & Service,Positive,2019
+Gully Boy Music Fest Mumbai,Fashion,Mumbai,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2021
+Gully Boy Music Fest Mumbai,Theatre,Hyderabad,Not worth the money spent.,Staff & Service,Negative,2022
+Gully Boy Music Fest Mumbai,Sports,Goa,"Great value for money, would attend again!",Value for Money,Positive,2022
+Gully Boy Music Fest Mumbai,Comedy,Hyderabad,Okayish experience overall.,Value for Money,Neutral,2021
+Gully Boy Music Fest Mumbai,Comedy,Pune,Poor sound quality and bad management.,Value for Money,Negative,2021
+Gully Boy Music Fest Delhi,Comedy,Ahmedabad,Absolutely magical experience!,Content Quality,Positive,2022
+Gully Boy Music Fest Delhi,Sports,Pune,Okayish experience overall.,Content Quality,Neutral,2022
+Gully Boy Music Fest Delhi,Fashion,Delhi,The staff was rude and unhelpful.,Content Quality,Negative,2023
+Gully Boy Music Fest Delhi,Theatre,Bangalore,"Great value for money, would attend again!",Venue & Facilities,Positive,2023
+Gully Boy Music Fest Delhi,Theatre,Goa,Could have been better organized.,Venue & Facilities,Neutral,2021
+Gully Boy Music Fest Delhi,Music,Kolkata,Crowd management was terrible.,Venue & Facilities,Negative,2019
+Gully Boy Music Fest Delhi,Fashion,Delhi,"Loved the experience, highly recommended!",Staff & Service,Positive,2021
+Gully Boy Music Fest Delhi,Sports,Jaipur,"It was okay, but I expected more.",Staff & Service,Neutral,2019
+Gully Boy Music Fest Delhi,Sports,Pune,Not worth the money spent.,Staff & Service,Negative,2020
+Gully Boy Music Fest Delhi,Fashion,Pune,The event was well-organized and enjoyable.,Value for Money,Positive,2020
+Gully Boy Music Fest Delhi,Music,Ahmedabad,Could have been better organized.,Value for Money,Neutral,2021
+Gully Boy Music Fest Delhi,Music,Chennai,Disappointed with the organization.,Value for Money,Negative,2023
+Gully Boy Music Fest Bangalore,Fashion,Chennai,"Loved the experience, highly recommended!",Content Quality,Positive,2021
+Gully Boy Music Fest Bangalore,Comedy,Goa,Okayish experience overall.,Content Quality,Neutral,2023
+Gully Boy Music Fest Bangalore,Sports,Chennai,The event was a complete letdown.,Content Quality,Negative,2023
+Gully Boy Music Fest Bangalore,Music,Pune,Amazing performance and great energy!,Venue & Facilities,Positive,2023
+Gully Boy Music Fest Bangalore,Sports,Chennai,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2019
+Gully Boy Music Fest Bangalore,Music,Ahmedabad,The event was a complete letdown.,Venue & Facilities,Negative,2021
+Gully Boy Music Fest Bangalore,Comedy,Bangalore,Fantastic vibe and great organization!,Staff & Service,Positive,2022
+Gully Boy Music Fest Bangalore,Theatre,Bangalore,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2021
+Gully Boy Music Fest Bangalore,Music,Pune,The event was a complete letdown.,Staff & Service,Negative,2019
+Gully Boy Music Fest Bangalore,Sports,Pune,"Great value for money, would attend again!",Value for Money,Positive,2022
+Gully Boy Music Fest Bangalore,Music,Kolkata,It was decent but nothing extraordinary.,Value for Money,Neutral,2019
+Gully Boy Music Fest Bangalore,Sports,Pune,The venue was too crowded and uncomfortable.,Value for Money,Negative,2019
+Nucleya Bass Rani Tour Mumbai,Music,Hyderabad,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2020
+Nucleya Bass Rani Tour Mumbai,Comedy,Hyderabad,It was decent but nothing extraordinary.,Content Quality,Neutral,2020
+Nucleya Bass Rani Tour Mumbai,Comedy,Ahmedabad,Disappointed with the organization.,Content Quality,Negative,2020
+Nucleya Bass Rani Tour Mumbai,Comedy,Mumbai,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2020
+Nucleya Bass Rani Tour Mumbai,Comedy,Chennai,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2020
+Nucleya Bass Rani Tour Mumbai,Comedy,Jaipur,Disappointed with the organization.,Venue & Facilities,Negative,2023
+Nucleya Bass Rani Tour Mumbai,Theatre,Delhi,The artists were phenomenal!,Staff & Service,Positive,2019
+Nucleya Bass Rani Tour Mumbai,Comedy,Bangalore,"The event was alright, but not exceptional.",Staff & Service,Neutral,2022
+Nucleya Bass Rani Tour Mumbai,Fashion,Jaipur,Disappointed with the organization.,Staff & Service,Negative,2022
+Nucleya Bass Rani Tour Mumbai,Comedy,Bangalore,The event was well-organized and enjoyable.,Value for Money,Positive,2020
+Nucleya Bass Rani Tour Mumbai,Comedy,Kolkata,Could have been better organized.,Value for Money,Neutral,2019
+Nucleya Bass Rani Tour Mumbai,Sports,Mumbai,Expected better performances.,Value for Money,Negative,2022
+Nucleya Bass Rani Tour Delhi,Comedy,Kolkata,Absolutely magical experience!,Content Quality,Positive,2019
+Nucleya Bass Rani Tour Delhi,Comedy,Ahmedabad,Okayish experience overall.,Content Quality,Neutral,2023
+Nucleya Bass Rani Tour Delhi,Theatre,Pune,Disappointed with the organization.,Content Quality,Negative,2021
+Nucleya Bass Rani Tour Delhi,Music,Hyderabad,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2022
+Nucleya Bass Rani Tour Delhi,Fashion,Chennai,Okayish experience overall.,Venue & Facilities,Neutral,2019
+Nucleya Bass Rani Tour Delhi,Music,Chennai,The venue was too crowded and uncomfortable.,Venue & Facilities,Negative,2021
+Nucleya Bass Rani Tour Delhi,Fashion,Mumbai,"Great value for money, would attend again!",Staff & Service,Positive,2021
+Nucleya Bass Rani Tour Delhi,Comedy,Hyderabad,"Mixed feelings, some good moments.",Staff & Service,Neutral,2022
+Nucleya Bass Rani Tour Delhi,Fashion,Delhi,The performances were underwhelming.,Staff & Service,Negative,2020
+Nucleya Bass Rani Tour Delhi,Music,Hyderabad,"Loved the experience, highly recommended!",Value for Money,Positive,2022
+Nucleya Bass Rani Tour Delhi,Fashion,Kolkata,"Mixed feelings, some good moments.",Value for Money,Neutral,2021
+Nucleya Bass Rani Tour Delhi,Comedy,Pune,Not worth the money spent.,Value for Money,Negative,2021
+Nucleya Bass Rani Tour Bangalore,Comedy,Hyderabad,The artists were phenomenal!,Content Quality,Positive,2023
+Nucleya Bass Rani Tour Bangalore,Comedy,Jaipur,"Decent experience, but not worth the hype.",Content Quality,Neutral,2023
+Nucleya Bass Rani Tour Bangalore,Music,Pune,I would not recommend this event to anyone.,Content Quality,Negative,2020
+Nucleya Bass Rani Tour Bangalore,Sports,Goa,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2020
+Nucleya Bass Rani Tour Bangalore,Theatre,Hyderabad,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2022
+Nucleya Bass Rani Tour Bangalore,Comedy,Chennai,Disappointed with the organization.,Venue & Facilities,Negative,2022
+Nucleya Bass Rani Tour Bangalore,Theatre,Pune,The event was well-organized and enjoyable.,Staff & Service,Positive,2022
+Nucleya Bass Rani Tour Bangalore,Fashion,Mumbai,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2021
+Nucleya Bass Rani Tour Bangalore,Fashion,Jaipur,The staff was rude and unhelpful.,Staff & Service,Negative,2019
+Nucleya Bass Rani Tour Bangalore,Theatre,Goa,"Stellar show, exceeded expectations!",Value for Money,Positive,2023
+Nucleya Bass Rani Tour Bangalore,Theatre,Chennai,"It was okay, but I expected more.",Value for Money,Neutral,2019
+Nucleya Bass Rani Tour Bangalore,Comedy,Delhi,The event was a complete letdown.,Value for Money,Negative,2021
+Samay Raina Live Mumbai,Fashion,Kolkata,Absolutely magical experience!,Content Quality,Positive,2020
+Samay Raina Live Mumbai,Fashion,Ahmedabad,"It was okay, but I expected more.",Content Quality,Neutral,2022
+Samay Raina Live Mumbai,Music,Bangalore,The event was a complete letdown.,Content Quality,Negative,2021
+Samay Raina Live Mumbai,Sports,Delhi,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2021
+Samay Raina Live Mumbai,Theatre,Goa,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2023
+Samay Raina Live Mumbai,Fashion,Kolkata,The performances were underwhelming.,Venue & Facilities,Negative,2020
+Samay Raina Live Mumbai,Sports,Bangalore,"Stellar show, exceeded expectations!",Staff & Service,Positive,2023
+Samay Raina Live Mumbai,Sports,Ahmedabad,"Mixed feelings, some good moments.",Staff & Service,Neutral,2023
+Samay Raina Live Mumbai,Music,Hyderabad,Disappointed with the organization.,Staff & Service,Negative,2021
+Samay Raina Live Mumbai,Comedy,Bangalore,Amazing performance and great energy!,Value for Money,Positive,2021
+Samay Raina Live Mumbai,Theatre,Chennai,Okayish experience overall.,Value for Money,Neutral,2019
+Samay Raina Live Mumbai,Comedy,Delhi,The event was a complete letdown.,Value for Money,Negative,2022
+Samay Raina Live Delhi,Comedy,Jaipur,The event was well-organized and enjoyable.,Content Quality,Positive,2022
+Samay Raina Live Delhi,Comedy,Goa,"Mixed feelings, some good moments.",Content Quality,Neutral,2020
+Samay Raina Live Delhi,Music,Goa,The staff was rude and unhelpful.,Content Quality,Negative,2021
+Samay Raina Live Delhi,Fashion,Mumbai,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2021
+Samay Raina Live Delhi,Comedy,Delhi,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2021
+Samay Raina Live Delhi,Sports,Kolkata,Expected better performances.,Venue & Facilities,Negative,2022
+Samay Raina Live Delhi,Fashion,Jaipur,"Great value for money, would attend again!",Staff & Service,Positive,2020
+Samay Raina Live Delhi,Theatre,Delhi,Had fun but a few things could be improved.,Staff & Service,Neutral,2022
+Samay Raina Live Delhi,Theatre,Bangalore,Not worth the money spent.,Staff & Service,Negative,2020
+Samay Raina Live Delhi,Music,Hyderabad,Amazing performance and great energy!,Value for Money,Positive,2021
+Samay Raina Live Delhi,Music,Chennai,"The event was alright, but not exceptional.",Value for Money,Neutral,2023
+Samay Raina Live Delhi,Comedy,Ahmedabad,The staff was rude and unhelpful.,Value for Money,Negative,2022
+Samay Raina Live Bangalore,Fashion,Chennai,"Great value for money, would attend again!",Content Quality,Positive,2019
+Samay Raina Live Bangalore,Sports,Ahmedabad,"Mixed feelings, some good moments.",Content Quality,Neutral,2021
+Samay Raina Live Bangalore,Fashion,Delhi,Poor sound quality and bad management.,Content Quality,Negative,2021
+Samay Raina Live Bangalore,Comedy,Ahmedabad,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2023
+Samay Raina Live Bangalore,Theatre,Mumbai,"It was okay, but I expected more.",Venue & Facilities,Neutral,2020
+Samay Raina Live Bangalore,Comedy,Chennai,Poor sound quality and bad management.,Venue & Facilities,Negative,2019
+Samay Raina Live Bangalore,Fashion,Mumbai,Fantastic vibe and great organization!,Staff & Service,Positive,2019
+Samay Raina Live Bangalore,Sports,Delhi,"It was okay, but I expected more.",Staff & Service,Neutral,2021
+Samay Raina Live Bangalore,Theatre,Jaipur,Crowd management was terrible.,Staff & Service,Negative,2020
+Samay Raina Live Bangalore,Comedy,Jaipur,The event was well-organized and enjoyable.,Value for Money,Positive,2021
+Samay Raina Live Bangalore,Music,Bangalore,"Decent experience, but not worth the hype.",Value for Money,Neutral,2021
+Samay Raina Live Bangalore,Sports,Delhi,The venue was too crowded and uncomfortable.,Value for Money,Negative,2022
+Rohan Joshi Standup Mumbai,Sports,Goa,The artists were phenomenal!,Content Quality,Positive,2020
+Rohan Joshi Standup Mumbai,Music,Hyderabad,"Average event, could be better.",Content Quality,Neutral,2021
+Rohan Joshi Standup Mumbai,Theatre,Chennai,The venue was too crowded and uncomfortable.,Content Quality,Negative,2021
+Rohan Joshi Standup Mumbai,Theatre,Kolkata,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2022
+Rohan Joshi Standup Mumbai,Sports,Bangalore,"It was okay, but I expected more.",Venue & Facilities,Neutral,2020
+Rohan Joshi Standup Mumbai,Sports,Goa,The venue was too crowded and uncomfortable.,Venue & Facilities,Negative,2023
+Rohan Joshi Standup Mumbai,Sports,Jaipur,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2020
+Rohan Joshi Standup Mumbai,Theatre,Delhi,Could have been better organized.,Staff & Service,Neutral,2020
+Rohan Joshi Standup Mumbai,Fashion,Jaipur,The event was a complete letdown.,Staff & Service,Negative,2020
+Rohan Joshi Standup Mumbai,Fashion,Jaipur,Absolutely magical experience!,Value for Money,Positive,2022
+Rohan Joshi Standup Mumbai,Comedy,Kolkata,"The event was alright, but not exceptional.",Value for Money,Neutral,2020
+Rohan Joshi Standup Mumbai,Fashion,Bangalore,The performances were underwhelming.,Value for Money,Negative,2022
+Rohan Joshi Standup Delhi,Theatre,Chennai,"Stellar show, exceeded expectations!",Content Quality,Positive,2023
+Rohan Joshi Standup Delhi,Comedy,Delhi,"The event was alright, but not exceptional.",Content Quality,Neutral,2020
+Rohan Joshi Standup Delhi,Fashion,Kolkata,I would not recommend this event to anyone.,Content Quality,Negative,2023
+Rohan Joshi Standup Delhi,Fashion,Jaipur,Absolutely magical experience!,Venue & Facilities,Positive,2020
+Rohan Joshi Standup Delhi,Comedy,Delhi,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2022
+Rohan Joshi Standup Delhi,Theatre,Chennai,Poor sound quality and bad management.,Venue & Facilities,Negative,2023
+Rohan Joshi Standup Delhi,Theatre,Bangalore,Absolutely magical experience!,Staff & Service,Positive,2021
+Rohan Joshi Standup Delhi,Comedy,Kolkata,Okayish experience overall.,Staff & Service,Neutral,2023
+Rohan Joshi Standup Delhi,Music,Ahmedabad,The performances were underwhelming.,Staff & Service,Negative,2023
+Rohan Joshi Standup Delhi,Fashion,Ahmedabad,A night to remember!,Value for Money,Positive,2020
+Rohan Joshi Standup Delhi,Fashion,Goa,It was decent but nothing extraordinary.,Value for Money,Neutral,2021
+Rohan Joshi Standup Delhi,Fashion,Delhi,The staff was rude and unhelpful.,Value for Money,Negative,2021
+Rohan Joshi Standup Bangalore,Music,Chennai,Absolutely magical experience!,Content Quality,Positive,2023
+Rohan Joshi Standup Bangalore,Comedy,Jaipur,"The event was alright, but not exceptional.",Content Quality,Neutral,2019
+Rohan Joshi Standup Bangalore,Comedy,Delhi,Expected better performances.,Content Quality,Negative,2023
+Rohan Joshi Standup Bangalore,Comedy,Bangalore,"Great value for money, would attend again!",Venue & Facilities,Positive,2023
+Rohan Joshi Standup Bangalore,Comedy,Jaipur,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2021
+Rohan Joshi Standup Bangalore,Music,Kolkata,The performances were underwhelming.,Venue & Facilities,Negative,2021
+Rohan Joshi Standup Bangalore,Theatre,Hyderabad,"Stellar show, exceeded expectations!",Staff & Service,Positive,2020
+Rohan Joshi Standup Bangalore,Sports,Pune,Could have been better organized.,Staff & Service,Neutral,2023
+Rohan Joshi Standup Bangalore,Theatre,Ahmedabad,Expected better performances.,Staff & Service,Negative,2022
+Rohan Joshi Standup Bangalore,Theatre,Delhi,Fantastic vibe and great organization!,Value for Money,Positive,2022
+Rohan Joshi Standup Bangalore,Comedy,Bangalore,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2020
+Rohan Joshi Standup Bangalore,Comedy,Jaipur,I would not recommend this event to anyone.,Value for Money,Negative,2022
+Armaan Malik Live Mumbai,Comedy,Mumbai,Absolutely magical experience!,Content Quality,Positive,2021
+Armaan Malik Live Mumbai,Fashion,Bangalore,Had fun but a few things could be improved.,Content Quality,Neutral,2021
+Armaan Malik Live Mumbai,Comedy,Jaipur,Expected better performances.,Content Quality,Negative,2019
+Armaan Malik Live Mumbai,Music,Ahmedabad,The artists were phenomenal!,Venue & Facilities,Positive,2020
+Armaan Malik Live Mumbai,Theatre,Pune,Okayish experience overall.,Venue & Facilities,Neutral,2022
+Armaan Malik Live Mumbai,Music,Kolkata,The venue was too crowded and uncomfortable.,Venue & Facilities,Negative,2019
+Armaan Malik Live Mumbai,Music,Kolkata,Fantastic vibe and great organization!,Staff & Service,Positive,2019
+Armaan Malik Live Mumbai,Comedy,Hyderabad,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2020
+Armaan Malik Live Mumbai,Comedy,Pune,The performances were underwhelming.,Staff & Service,Negative,2020
+Armaan Malik Live Mumbai,Fashion,Pune,Fantastic vibe and great organization!,Value for Money,Positive,2023
+Armaan Malik Live Mumbai,Sports,Delhi,"Decent experience, but not worth the hype.",Value for Money,Neutral,2023
+Armaan Malik Live Mumbai,Theatre,Hyderabad,Expected better performances.,Value for Money,Negative,2022
+Armaan Malik Live Delhi,Theatre,Mumbai,The event was well-organized and enjoyable.,Content Quality,Positive,2023
+Armaan Malik Live Delhi,Comedy,Jaipur,Could have been better organized.,Content Quality,Neutral,2022
+Armaan Malik Live Delhi,Music,Goa,Not worth the money spent.,Content Quality,Negative,2023
+Armaan Malik Live Delhi,Music,Ahmedabad,Amazing performance and great energy!,Venue & Facilities,Positive,2019
+Armaan Malik Live Delhi,Comedy,Goa,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2021
+Armaan Malik Live Delhi,Music,Chennai,The performances were underwhelming.,Venue & Facilities,Negative,2021
+Armaan Malik Live Delhi,Comedy,Pune,Absolutely magical experience!,Staff & Service,Positive,2020
+Armaan Malik Live Delhi,Theatre,Pune,Had fun but a few things could be improved.,Staff & Service,Neutral,2021
+Armaan Malik Live Delhi,Comedy,Hyderabad,I would not recommend this event to anyone.,Staff & Service,Negative,2021
+Armaan Malik Live Delhi,Comedy,Delhi,The artists were phenomenal!,Value for Money,Positive,2021
+Armaan Malik Live Delhi,Comedy,Bangalore,"Average event, could be better.",Value for Money,Neutral,2020
+Armaan Malik Live Delhi,Fashion,Hyderabad,The staff was rude and unhelpful.,Value for Money,Negative,2020
+Armaan Malik Live Kolkata,Theatre,Jaipur,Fantastic vibe and great organization!,Content Quality,Positive,2020
+Armaan Malik Live Kolkata,Comedy,Ahmedabad,Had fun but a few things could be improved.,Content Quality,Neutral,2023
+Armaan Malik Live Kolkata,Sports,Chennai,The venue was too crowded and uncomfortable.,Content Quality,Negative,2020
+Armaan Malik Live Kolkata,Sports,Delhi,Fantastic vibe and great organization!,Venue & Facilities,Positive,2019
+Armaan Malik Live Kolkata,Fashion,Ahmedabad,Could have been better organized.,Venue & Facilities,Neutral,2021
+Armaan Malik Live Kolkata,Comedy,Mumbai,Crowd management was terrible.,Venue & Facilities,Negative,2020
+Armaan Malik Live Kolkata,Comedy,Mumbai,"Stellar show, exceeded expectations!",Staff & Service,Positive,2023
+Armaan Malik Live Kolkata,Music,Mumbai,"Average event, could be better.",Staff & Service,Neutral,2023
+Armaan Malik Live Kolkata,Fashion,Mumbai,Poor sound quality and bad management.,Staff & Service,Negative,2021
+Armaan Malik Live Kolkata,Sports,Bangalore,The venue was perfect and the staff was very helpful.,Value for Money,Positive,2020
+Armaan Malik Live Kolkata,Comedy,Mumbai,Had fun but a few things could be improved.,Value for Money,Neutral,2019
+Armaan Malik Live Kolkata,Sports,Kolkata,Crowd management was terrible.,Value for Money,Negative,2023
+Sonu Nigam Live Mumbai,Comedy,Jaipur,Fantastic vibe and great organization!,Content Quality,Positive,2019
+Sonu Nigam Live Mumbai,Fashion,Bangalore,"It was okay, but I expected more.",Content Quality,Neutral,2020
+Sonu Nigam Live Mumbai,Comedy,Chennai,The event was a complete letdown.,Content Quality,Negative,2021
+Sonu Nigam Live Mumbai,Theatre,Jaipur,Absolutely magical experience!,Venue & Facilities,Positive,2022
+Sonu Nigam Live Mumbai,Sports,Mumbai,"Average event, could be better.",Venue & Facilities,Neutral,2020
+Sonu Nigam Live Mumbai,Theatre,Goa,The performances were underwhelming.,Venue & Facilities,Negative,2023
+Sonu Nigam Live Mumbai,Theatre,Pune,"Loved the experience, highly recommended!",Staff & Service,Positive,2022
+Sonu Nigam Live Mumbai,Fashion,Bangalore,"Mixed feelings, some good moments.",Staff & Service,Neutral,2020
+Sonu Nigam Live Mumbai,Comedy,Pune,Crowd management was terrible.,Staff & Service,Negative,2021
+Sonu Nigam Live Mumbai,Theatre,Mumbai,"Loved the experience, highly recommended!",Value for Money,Positive,2023
+Sonu Nigam Live Mumbai,Sports,Ahmedabad,"Decent experience, but not worth the hype.",Value for Money,Neutral,2022
+Sonu Nigam Live Mumbai,Theatre,Goa,I would not recommend this event to anyone.,Value for Money,Negative,2019
+Sonu Nigam Live Delhi,Theatre,Ahmedabad,Absolutely magical experience!,Content Quality,Positive,2023
+Sonu Nigam Live Delhi,Theatre,Hyderabad,"Mixed feelings, some good moments.",Content Quality,Neutral,2022
+Sonu Nigam Live Delhi,Music,Ahmedabad,The staff was rude and unhelpful.,Content Quality,Negative,2021
+Sonu Nigam Live Delhi,Sports,Bangalore,Amazing performance and great energy!,Venue & Facilities,Positive,2020
+Sonu Nigam Live Delhi,Comedy,Pune,"Decent experience, but not worth the hype.",Venue & Facilities,Neutral,2023
+Sonu Nigam Live Delhi,Sports,Chennai,The performances were underwhelming.,Venue & Facilities,Negative,2021
+Sonu Nigam Live Delhi,Sports,Kolkata,The artists were phenomenal!,Staff & Service,Positive,2021
+Sonu Nigam Live Delhi,Sports,Hyderabad,"It was okay, but I expected more.",Staff & Service,Neutral,2022
+Sonu Nigam Live Delhi,Theatre,Chennai,I would not recommend this event to anyone.,Staff & Service,Negative,2020
+Sonu Nigam Live Delhi,Sports,Mumbai,Absolutely magical experience!,Value for Money,Positive,2020
+Sonu Nigam Live Delhi,Comedy,Hyderabad,Okayish experience overall.,Value for Money,Neutral,2021
+Sonu Nigam Live Delhi,Theatre,Bangalore,Disappointed with the organization.,Value for Money,Negative,2020
+Sonu Nigam Live Bangalore,Comedy,Bangalore,Absolutely magical experience!,Content Quality,Positive,2020
+Sonu Nigam Live Bangalore,Comedy,Goa,"Mixed feelings, some good moments.",Content Quality,Neutral,2020
+Sonu Nigam Live Bangalore,Sports,Ahmedabad,Expected better performances.,Content Quality,Negative,2022
+Sonu Nigam Live Bangalore,Comedy,Hyderabad,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2022
+Sonu Nigam Live Bangalore,Sports,Chennai,"It was okay, but I expected more.",Venue & Facilities,Neutral,2020
+Sonu Nigam Live Bangalore,Theatre,Jaipur,Crowd management was terrible.,Venue & Facilities,Negative,2021
+Sonu Nigam Live Bangalore,Sports,Mumbai,"Loved the experience, highly recommended!",Staff & Service,Positive,2019
+Sonu Nigam Live Bangalore,Music,Kolkata,It was decent but nothing extraordinary.,Staff & Service,Neutral,2021
+Sonu Nigam Live Bangalore,Theatre,Ahmedabad,The performances were underwhelming.,Staff & Service,Negative,2019
+Sonu Nigam Live Bangalore,Sports,Delhi,A night to remember!,Value for Money,Positive,2020
+Sonu Nigam Live Bangalore,Music,Chennai,It was decent but nothing extraordinary.,Value for Money,Neutral,2022
+Sonu Nigam Live Bangalore,Comedy,Kolkata,The venue was too crowded and uncomfortable.,Value for Money,Negative,2023
+Divine x Ritviz Fusion Concert Mumbai,Music,Pune,"Stellar show, exceeded expectations!",Content Quality,Positive,2022
+Divine x Ritviz Fusion Concert Mumbai,Comedy,Goa,"The event was alright, but not exceptional.",Content Quality,Neutral,2021
+Divine x Ritviz Fusion Concert Mumbai,Comedy,Chennai,Expected better performances.,Content Quality,Negative,2023
+Divine x Ritviz Fusion Concert Mumbai,Theatre,Jaipur,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2022
+Divine x Ritviz Fusion Concert Mumbai,Music,Goa,"Average event, could be better.",Venue & Facilities,Neutral,2019
+Divine x Ritviz Fusion Concert Mumbai,Comedy,Goa,Not worth the money spent.,Venue & Facilities,Negative,2020
+Divine x Ritviz Fusion Concert Mumbai,Sports,Bangalore,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2020
+Divine x Ritviz Fusion Concert Mumbai,Comedy,Hyderabad,"The performances were good, but the venue was cramped.",Staff & Service,Neutral,2022
+Divine x Ritviz Fusion Concert Mumbai,Comedy,Jaipur,The staff was rude and unhelpful.,Staff & Service,Negative,2022
+Divine x Ritviz Fusion Concert Mumbai,Comedy,Kolkata,The artists were phenomenal!,Value for Money,Positive,2022
+Divine x Ritviz Fusion Concert Mumbai,Theatre,Bangalore,"Average event, could be better.",Value for Money,Neutral,2022
+Divine x Ritviz Fusion Concert Mumbai,Comedy,Delhi,Disappointed with the organization.,Value for Money,Negative,2019
+Divine x Ritviz Fusion Concert Delhi,Fashion,Jaipur,The event was well-organized and enjoyable.,Content Quality,Positive,2021
+Divine x Ritviz Fusion Concert Delhi,Theatre,Delhi,"It was okay, but I expected more.",Content Quality,Neutral,2022
+Divine x Ritviz Fusion Concert Delhi,Fashion,Kolkata,Crowd management was terrible.,Content Quality,Negative,2020
+Divine x Ritviz Fusion Concert Delhi,Sports,Kolkata,Fantastic vibe and great organization!,Venue & Facilities,Positive,2020
+Divine x Ritviz Fusion Concert Delhi,Music,Goa,"The event was alright, but not exceptional.",Venue & Facilities,Neutral,2021
+Divine x Ritviz Fusion Concert Delhi,Music,Delhi,The staff was rude and unhelpful.,Venue & Facilities,Negative,2023
+Divine x Ritviz Fusion Concert Delhi,Comedy,Chennai,The event was well-organized and enjoyable.,Staff & Service,Positive,2019
+Divine x Ritviz Fusion Concert Delhi,Fashion,Chennai,"Mixed feelings, some good moments.",Staff & Service,Neutral,2022
+Divine x Ritviz Fusion Concert Delhi,Comedy,Ahmedabad,Not worth the money spent.,Staff & Service,Negative,2020
+Divine x Ritviz Fusion Concert Delhi,Sports,Hyderabad,The artists were phenomenal!,Value for Money,Positive,2022
+Divine x Ritviz Fusion Concert Delhi,Comedy,Kolkata,Had fun but a few things could be improved.,Value for Money,Neutral,2019
+Divine x Ritviz Fusion Concert Delhi,Theatre,Ahmedabad,Expected better performances.,Value for Money,Negative,2022
+Divine x Ritviz Fusion Concert Bangalore,Theatre,Mumbai,The artists were phenomenal!,Content Quality,Positive,2019
+Divine x Ritviz Fusion Concert Bangalore,Sports,Delhi,"It was okay, but I expected more.",Content Quality,Neutral,2020
+Divine x Ritviz Fusion Concert Bangalore,Theatre,Delhi,Disappointed with the organization.,Content Quality,Negative,2020
+Divine x Ritviz Fusion Concert Bangalore,Sports,Ahmedabad,"Great value for money, would attend again!",Venue & Facilities,Positive,2021
+Divine x Ritviz Fusion Concert Bangalore,Sports,Pune,Okayish experience overall.,Venue & Facilities,Neutral,2021
+Divine x Ritviz Fusion Concert Bangalore,Fashion,Chennai,I would not recommend this event to anyone.,Venue & Facilities,Negative,2020
+Divine x Ritviz Fusion Concert Bangalore,Comedy,Hyderabad,Absolutely magical experience!,Staff & Service,Positive,2023
+Divine x Ritviz Fusion Concert Bangalore,Music,Kolkata,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2019
+Divine x Ritviz Fusion Concert Bangalore,Theatre,Delhi,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2019
+Divine x Ritviz Fusion Concert Bangalore,Sports,Bangalore,The event was well-organized and enjoyable.,Value for Money,Positive,2019
+Divine x Ritviz Fusion Concert Bangalore,Music,Bangalore,Could have been better organized.,Value for Money,Neutral,2022
+Divine x Ritviz Fusion Concert Bangalore,Sports,Mumbai,The venue was too crowded and uncomfortable.,Value for Money,Negative,2022
+FIFA U17 Finals Kolkata,Comedy,Delhi,The event was well-organized and enjoyable.,Content Quality,Positive,2022
+FIFA U17 Finals Kolkata,Theatre,Mumbai,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2023
+FIFA U17 Finals Kolkata,Fashion,Kolkata,The performances were underwhelming.,Content Quality,Negative,2019
+FIFA U17 Finals Kolkata,Fashion,Bangalore,The artists were phenomenal!,Venue & Facilities,Positive,2021
+FIFA U17 Finals Kolkata,Comedy,Goa,"Average event, could be better.",Venue & Facilities,Neutral,2020
+FIFA U17 Finals Kolkata,Fashion,Goa,Disappointed with the organization.,Venue & Facilities,Negative,2020
+FIFA U17 Finals Kolkata,Theatre,Hyderabad,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2023
+FIFA U17 Finals Kolkata,Comedy,Mumbai,Had fun but a few things could be improved.,Staff & Service,Neutral,2019
+FIFA U17 Finals Kolkata,Fashion,Mumbai,Not worth the money spent.,Staff & Service,Negative,2021
+FIFA U17 Finals Kolkata,Theatre,Mumbai,The artists were phenomenal!,Value for Money,Positive,2023
+FIFA U17 Finals Kolkata,Fashion,Ahmedabad,Could have been better organized.,Value for Money,Neutral,2021
+FIFA U17 Finals Kolkata,Theatre,Jaipur,Not worth the money spent.,Value for Money,Negative,2020
+FIFA U17 Finals Delhi,Comedy,Kolkata,The artists were phenomenal!,Content Quality,Positive,2019
+FIFA U17 Finals Delhi,Theatre,Pune,Had fun but a few things could be improved.,Content Quality,Neutral,2023
+FIFA U17 Finals Delhi,Theatre,Delhi,Not worth the money spent.,Content Quality,Negative,2021
+FIFA U17 Finals Delhi,Fashion,Pune,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2019
+FIFA U17 Finals Delhi,Sports,Kolkata,"The performances were good, but the venue was cramped.",Venue & Facilities,Neutral,2023
+FIFA U17 Finals Delhi,Sports,Kolkata,Disappointed with the organization.,Venue & Facilities,Negative,2019
+FIFA U17 Finals Delhi,Music,Hyderabad,"Stellar show, exceeded expectations!",Staff & Service,Positive,2019
+FIFA U17 Finals Delhi,Music,Hyderabad,"Average event, could be better.",Staff & Service,Neutral,2020
+FIFA U17 Finals Delhi,Theatre,Ahmedabad,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2022
+FIFA U17 Finals Delhi,Music,Ahmedabad,Amazing performance and great energy!,Value for Money,Positive,2022
+FIFA U17 Finals Delhi,Music,Kolkata,"Mixed feelings, some good moments.",Value for Money,Neutral,2020
+FIFA U17 Finals Delhi,Comedy,Bangalore,The staff was rude and unhelpful.,Value for Money,Negative,2021
+FIFA U17 Finals Mumbai,Theatre,Kolkata,Absolutely magical experience!,Content Quality,Positive,2023
+FIFA U17 Finals Mumbai,Comedy,Bangalore,Okayish experience overall.,Content Quality,Neutral,2020
+FIFA U17 Finals Mumbai,Comedy,Chennai,Not worth the money spent.,Content Quality,Negative,2021
+FIFA U17 Finals Mumbai,Theatre,Goa,The artists were phenomenal!,Venue & Facilities,Positive,2021
+FIFA U17 Finals Mumbai,Fashion,Ahmedabad,Could have been better organized.,Venue & Facilities,Neutral,2019
+FIFA U17 Finals Mumbai,Fashion,Goa,The staff was rude and unhelpful.,Venue & Facilities,Negative,2021
+FIFA U17 Finals Mumbai,Sports,Goa,Fantastic vibe and great organization!,Staff & Service,Positive,2022
+FIFA U17 Finals Mumbai,Sports,Kolkata,"It was okay, but I expected more.",Staff & Service,Neutral,2023
+FIFA U17 Finals Mumbai,Music,Kolkata,Disappointed with the organization.,Staff & Service,Negative,2020
+FIFA U17 Finals Mumbai,Comedy,Jaipur,A night to remember!,Value for Money,Positive,2019
+FIFA U17 Finals Mumbai,Music,Jaipur,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2021
+FIFA U17 Finals Mumbai,Sports,Hyderabad,Crowd management was terrible.,Value for Money,Negative,2020
+India Design Week Mumbai,Music,Goa,"Stellar show, exceeded expectations!",Content Quality,Positive,2023
+India Design Week Mumbai,Theatre,Delhi,"It was okay, but I expected more.",Content Quality,Neutral,2020
+India Design Week Mumbai,Comedy,Ahmedabad,Not worth the money spent.,Content Quality,Negative,2019
+India Design Week Mumbai,Music,Mumbai,A night to remember!,Venue & Facilities,Positive,2023
+India Design Week Mumbai,Theatre,Delhi,"It was okay, but I expected more.",Venue & Facilities,Neutral,2019
+India Design Week Mumbai,Theatre,Jaipur,The event was a complete letdown.,Venue & Facilities,Negative,2023
+India Design Week Mumbai,Comedy,Chennai,The event was well-organized and enjoyable.,Staff & Service,Positive,2022
+India Design Week Mumbai,Music,Ahmedabad,It was decent but nothing extraordinary.,Staff & Service,Neutral,2019
+India Design Week Mumbai,Fashion,Ahmedabad,The event was a complete letdown.,Staff & Service,Negative,2021
+India Design Week Mumbai,Fashion,Delhi,"Stellar show, exceeded expectations!",Value for Money,Positive,2021
+India Design Week Mumbai,Music,Kolkata,"Mixed feelings, some good moments.",Value for Money,Neutral,2019
+India Design Week Mumbai,Theatre,Ahmedabad,The staff was rude and unhelpful.,Value for Money,Negative,2021
+India Design Week Delhi,Fashion,Pune,"Stellar show, exceeded expectations!",Content Quality,Positive,2022
+India Design Week Delhi,Sports,Chennai,"It was okay, but I expected more.",Content Quality,Neutral,2019
+India Design Week Delhi,Comedy,Chennai,The venue was too crowded and uncomfortable.,Content Quality,Negative,2019
+India Design Week Delhi,Comedy,Chennai,"Stellar show, exceeded expectations!",Venue & Facilities,Positive,2021
+India Design Week Delhi,Fashion,Jaipur,"Average event, could be better.",Venue & Facilities,Neutral,2019
+India Design Week Delhi,Theatre,Goa,Crowd management was terrible.,Venue & Facilities,Negative,2023
+India Design Week Delhi,Theatre,Ahmedabad,Fantastic vibe and great organization!,Staff & Service,Positive,2023
+India Design Week Delhi,Fashion,Ahmedabad,"Decent experience, but not worth the hype.",Staff & Service,Neutral,2020
+India Design Week Delhi,Sports,Mumbai,The staff was rude and unhelpful.,Staff & Service,Negative,2021
+India Design Week Delhi,Fashion,Bangalore,"Stellar show, exceeded expectations!",Value for Money,Positive,2022
+India Design Week Delhi,Comedy,Mumbai,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2021
+India Design Week Delhi,Theatre,Kolkata,Crowd management was terrible.,Value for Money,Negative,2020
+India Design Week Bangalore,Music,Kolkata,Amazing performance and great energy!,Content Quality,Positive,2019
+India Design Week Bangalore,Sports,Goa,"Mixed feelings, some good moments.",Content Quality,Neutral,2022
+India Design Week Bangalore,Music,Chennai,Crowd management was terrible.,Content Quality,Negative,2019
+India Design Week Bangalore,Comedy,Ahmedabad,"Loved the experience, highly recommended!",Venue & Facilities,Positive,2019
+India Design Week Bangalore,Sports,Bangalore,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2022
+India Design Week Bangalore,Theatre,Hyderabad,I would not recommend this event to anyone.,Venue & Facilities,Negative,2022
+India Design Week Bangalore,Comedy,Hyderabad,Amazing performance and great energy!,Staff & Service,Positive,2019
+India Design Week Bangalore,Theatre,Pune,"Average event, could be better.",Staff & Service,Neutral,2021
+India Design Week Bangalore,Music,Chennai,The staff was rude and unhelpful.,Staff & Service,Negative,2022
+India Design Week Bangalore,Fashion,Goa,Amazing performance and great energy!,Value for Money,Positive,2022
+India Design Week Bangalore,Music,Mumbai,It was decent but nothing extraordinary.,Value for Money,Neutral,2019
+India Design Week Bangalore,Comedy,Ahmedabad,The venue was too crowded and uncomfortable.,Value for Money,Negative,2021
+Pro Wrestling League Mumbai,Theatre,Hyderabad,The event was well-organized and enjoyable.,Content Quality,Positive,2021
+Pro Wrestling League Mumbai,Comedy,Kolkata,It was decent but nothing extraordinary.,Content Quality,Neutral,2022
+Pro Wrestling League Mumbai,Music,Jaipur,Poor sound quality and bad management.,Content Quality,Negative,2022
+Pro Wrestling League Mumbai,Fashion,Hyderabad,"Great value for money, would attend again!",Venue & Facilities,Positive,2023
+Pro Wrestling League Mumbai,Sports,Pune,"The event was alright, but not exceptional.",Venue & Facilities,Neutral,2019
+Pro Wrestling League Mumbai,Comedy,Chennai,Expected better performances.,Venue & Facilities,Negative,2021
+Pro Wrestling League Mumbai,Fashion,Ahmedabad,Amazing performance and great energy!,Staff & Service,Positive,2020
+Pro Wrestling League Mumbai,Fashion,Pune,"It was okay, but I expected more.",Staff & Service,Neutral,2020
+Pro Wrestling League Mumbai,Sports,Hyderabad,Expected better performances.,Staff & Service,Negative,2022
+Pro Wrestling League Mumbai,Comedy,Pune,"Loved the experience, highly recommended!",Value for Money,Positive,2023
+Pro Wrestling League Mumbai,Fashion,Ahmedabad,"Average event, could be better.",Value for Money,Neutral,2023
+Pro Wrestling League Mumbai,Fashion,Delhi,Not worth the money spent.,Value for Money,Negative,2022
+Pro Wrestling League Delhi,Theatre,Goa,Amazing performance and great energy!,Content Quality,Positive,2022
+Pro Wrestling League Delhi,Music,Jaipur,"The performances were good, but the venue was cramped.",Content Quality,Neutral,2019
+Pro Wrestling League Delhi,Sports,Mumbai,The staff was rude and unhelpful.,Content Quality,Negative,2020
+Pro Wrestling League Delhi,Music,Pune,Fantastic vibe and great organization!,Venue & Facilities,Positive,2020
+Pro Wrestling League Delhi,Sports,Kolkata,Okayish experience overall.,Venue & Facilities,Neutral,2022
+Pro Wrestling League Delhi,Sports,Bangalore,Expected better performances.,Venue & Facilities,Negative,2021
+Pro Wrestling League Delhi,Music,Mumbai,"Great value for money, would attend again!",Staff & Service,Positive,2019
+Pro Wrestling League Delhi,Sports,Chennai,Okayish experience overall.,Staff & Service,Neutral,2019
+Pro Wrestling League Delhi,Music,Bangalore,The venue was too crowded and uncomfortable.,Staff & Service,Negative,2022
+Pro Wrestling League Delhi,Theatre,Kolkata,Amazing performance and great energy!,Value for Money,Positive,2021
+Pro Wrestling League Delhi,Fashion,Hyderabad,Had fun but a few things could be improved.,Value for Money,Neutral,2022
+Pro Wrestling League Delhi,Fashion,Goa,The staff was rude and unhelpful.,Value for Money,Negative,2021
+Pro Wrestling League Bangalore,Music,Kolkata,The venue was perfect and the staff was very helpful.,Content Quality,Positive,2023
+Pro Wrestling League Bangalore,Fashion,Pune,Could have been better organized.,Content Quality,Neutral,2022
+Pro Wrestling League Bangalore,Sports,Bangalore,Poor sound quality and bad management.,Content Quality,Negative,2020
+Pro Wrestling League Bangalore,Fashion,Mumbai,The event was well-organized and enjoyable.,Venue & Facilities,Positive,2019
+Pro Wrestling League Bangalore,Theatre,Mumbai,Had fun but a few things could be improved.,Venue & Facilities,Neutral,2023
+Pro Wrestling League Bangalore,Comedy,Goa,Disappointed with the organization.,Venue & Facilities,Negative,2020
+Pro Wrestling League Bangalore,Music,Bangalore,The venue was perfect and the staff was very helpful.,Staff & Service,Positive,2020
+Pro Wrestling League Bangalore,Fashion,Ahmedabad,Could have been better organized.,Staff & Service,Neutral,2023
+Pro Wrestling League Bangalore,Theatre,Mumbai,Expected better performances.,Staff & Service,Negative,2022
+Pro Wrestling League Bangalore,Sports,Jaipur,Amazing performance and great energy!,Value for Money,Positive,2020
+Pro Wrestling League Bangalore,Fashion,Goa,Had fun but a few things could be improved.,Value for Money,Neutral,2022
+Pro Wrestling League Bangalore,Music,Kolkata,Disappointed with the organization.,Value for Money,Negative,2022
+Virat Kohli Charity Match Mumbai,Sports,Ahmedabad,"Loved the experience, highly recommended!",Content Quality,Positive,2022
+Virat Kohli Charity Match Mumbai,Sports,Hyderabad,Could have been better organized.,Content Quality,Neutral,2020
+Virat Kohli Charity Match Mumbai,Fashion,Hyderabad,The staff was rude and unhelpful.,Content Quality,Negative,2020
+Virat Kohli Charity Match Mumbai,Music,Hyderabad,Absolutely magical experience!,Venue & Facilities,Positive,2020
+Virat Kohli Charity Match Mumbai,Sports,Goa,"Mixed feelings, some good moments.",Venue & Facilities,Neutral,2023
+Virat Kohli Charity Match Mumbai,Comedy,Kolkata,Not worth the money spent.,Venue & Facilities,Negative,2021
+Virat Kohli Charity Match Mumbai,Comedy,Bangalore,The event was well-organized and enjoyable.,Staff & Service,Positive,2022
+Virat Kohli Charity Match Mumbai,Fashion,Chennai,"The event was alright, but not exceptional.",Staff & Service,Neutral,2020
+Virat Kohli Charity Match Mumbai,Music,Kolkata,Poor sound quality and bad management.,Staff & Service,Negative,2022
+Virat Kohli Charity Match Mumbai,Music,Mumbai,Amazing performance and great energy!,Value for Money,Positive,2020
+Virat Kohli Charity Match Mumbai,Sports,Delhi,"The performances were good, but the venue was cramped.",Value for Money,Neutral,2022
+Virat Kohli Charity Match Mumbai,Comedy,Ahmedabad,The venue was too crowded and uncomfortable.,Value for Money,Negative,2023
+Virat Kohli Charity Match Delhi,Comedy,Jaipur,The artists were phenomenal!,Content Quality,Positive,2022
+Virat Kohli Charity Match Delhi,Fashion,Pune,"Average event, could be better.",Content Quality,Neutral,2019
+Virat Kohli Charity Match Delhi,Music,Jaipur,Not worth the money spent.,Content Quality,Negative,2021
+Virat Kohli Charity Match Delhi,Theatre,Kolkata,The artists were phenomenal!,Venue & Facilities,Positive,2019
+Virat Kohli Charity Match Delhi,Fashion,Jaipur,"The event was alright, but not exceptional.",Venue & Facilities,Neutral,2021
+Virat Kohli Charity Match Delhi,Fashion,Chennai,The performances were underwhelming.,Venue & Facilities,Negative,2023
+Virat Kohli Charity Match Delhi,Theatre,Ahmedabad,Fantastic vibe and great organization!,Staff & Service,Positive,2022
+Virat Kohli Charity Match Delhi,Fashion,Hyderabad,Could have been better organized.,Staff & Service,Neutral,2020
+Virat Kohli Charity Match Delhi,Fashion,Goa,I would not recommend this event to anyone.,Staff & Service,Negative,2021
+Virat Kohli Charity Match Delhi,Theatre,Ahmedabad,The venue was perfect and the staff was very helpful.,Value for Money,Positive,2021
+Virat Kohli Charity Match Delhi,Sports,Jaipur,Okayish experience overall.,Value for Money,Neutral,2022
+Virat Kohli Charity Match Delhi,Sports,Hyderabad,The performances were underwhelming.,Value for Money,Negative,2023
+Virat Kohli Charity Match Bangalore,Fashion,Ahmedabad,The artists were phenomenal!,Content Quality,Positive,2021
+Virat Kohli Charity Match Bangalore,Theatre,Delhi,"It was okay, but I expected more.",Content Quality,Neutral,2022
+Virat Kohli Charity Match Bangalore,Fashion,Goa,I would not recommend this event to anyone.,Content Quality,Negative,2019
+Virat Kohli Charity Match Bangalore,Comedy,Delhi,The venue was perfect and the staff was very helpful.,Venue & Facilities,Positive,2022
+Virat Kohli Charity Match Bangalore,Music,Pune,"It was okay, but I expected more.",Venue & Facilities,Neutral,2022
+Virat Kohli Charity Match Bangalore,Sports,Kolkata,Expected better performances.,Venue & Facilities,Negative,2021
+Virat Kohli Charity Match Bangalore,Sports,Mumbai,The artists were phenomenal!,Staff & Service,Positive,2023
+Virat Kohli Charity Match Bangalore,Comedy,Chennai,"The event was alright, but not exceptional.",Staff & Service,Neutral,2022
+Virat Kohli Charity Match Bangalore,Fashion,Pune,Not worth the money spent.,Staff & Service,Negative,2022
+Virat Kohli Charity Match Bangalore,Theatre,Chennai,"Loved the experience, highly recommended!",Value for Money,Positive,2021
+Virat Kohli Charity Match Bangalore,Comedy,Ahmedabad,Had fun but a few things could be improved.,Value for Money,Neutral,2019
+Virat Kohli Charity Match Bangalore,Theatre,Pune,The performances were underwhelming.,Value for Money,Negative,2019
